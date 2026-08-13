@@ -1,0 +1,3150 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Computer Science courses with video lectures",
+          "description": "Developer-Y",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T17:42:10Z",
+            "owner": "Developer-Y",
+            "repo": "cs-video-courses",
+            "stars": 83034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List of Computer Science courses",
+          "description": "List of Computer Science courses with video lectures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T17:42:10Z",
+            "owner": "Developer-Y",
+            "repo": "cs-video-courses",
+            "stars": 83034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Computer Vision",
+          "description": "Jia-Bin Huang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-17T14:24:27Z",
+            "owner": "jbhuang0604",
+            "repo": "awesome-computer-vision",
+            "stars": 23491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCV: C++ and Python",
+          "description": "Satya Mallick",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T13:53:46Z",
+            "owner": "spmallick",
+            "repo": "learnopencv",
+            "stars": 23071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning Engineering",
+          "description": "Machine Learning Engineering Open Book",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:20:31Z",
+            "owner": "stas00",
+            "repo": "ml-engineering",
+            "stars": 18604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern C++ Programming",
+          "description": "Modern C++ Programming Course (C++11/14/17/20)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-19T05:38:55Z",
+            "owner": "federico-busato",
+            "repo": "Modern-CPP-Programming",
+            "stars": 16006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Structure & Algorithms 101",
+          "description": "Girliemac",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-14T19:07:33Z",
+            "owner": "girliemac",
+            "repo": "a-picture-is-worth-a-1000-words",
+            "stars": 11404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algorithms / Data Structures",
+          "description": "A Picture is worth a 1000 words",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-14T19:07:33Z",
+            "owner": "girliemac",
+            "repo": "a-picture-is-worth-a-1000-words",
+            "stars": 11404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roboflow Notebooks",
+          "description": "Jupyter Notebooks with Computer Vision tutorials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T15:49:03Z",
+            "owner": "roboflow",
+            "repo": "notebooks",
+            "stars": 9606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPP Best Practices",
+          "description": "CPP Best Practices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-06T07:33:26Z",
+            "owner": "cpp-best-practices",
+            "repo": "cppbestpractices",
+            "stars": 8800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ Best Practices",
+          "description": "Collaborative Collection of C++ Best Practices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-06T07:33:26Z",
+            "owner": "cpp-best-practices",
+            "repo": "cppbestpractices",
+            "stars": 8800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics",
+          "description": "Huge awesome list for robotics by kiloreux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-22T20:24:10Z",
+            "owner": "kiloreux",
+            "repo": "awesome-robotics",
+            "stars": 6835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning Course Notes",
+          "description": "DAIR.AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-16T18:51:33Z",
+            "owner": "dair-ai",
+            "repo": "ML-Course-Notes",
+            "stars": 6635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Udacity's autonomous car",
+          "description": "The Udacity open source self-driving car project",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-25T10:41:52Z",
+            "owner": "udacity",
+            "repo": "self-driving-car",
+            "stars": 6317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Start Machine Learning",
+          "description": "A complete guide to start and improve in ML, AI by Louis-François Bouchard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-23T19:51:33Z",
+            "owner": "louisfb01",
+            "repo": "start-machine-learning",
+            "stars": 5293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome 3D Reconstruction List",
+          "description": "OpenMVG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-12T04:37:11Z",
+            "owner": "openMVG",
+            "repo": "awesome_3DReconstruction_list",
+            "stars": 4417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotic Tooling",
+          "description": "About Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-20T07:13:29Z",
+            "owner": "Ly0n",
+            "repo": "awesome-robotic-tooling",
+            "stars": 3875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ Cheatsheet",
+          "description": "Modern C++ Cheatsheet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-15T08:48:20Z",
+            "owner": "mortennobel",
+            "repo": "cpp-cheatsheet",
+            "stars": 3552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Interview Preparation",
+          "description": "Collection of problems and solutions of leetcode, geeksforgeeks challenges by mgechev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-28T15:54:54Z",
+            "owner": "mgechev",
+            "repo": "google-interview-preparation-problems",
+            "stars": 3168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematics for Robotics",
+          "description": "University of Michigan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-21T15:33:13Z",
+            "owner": "michiganrobotics",
+            "repo": "rob501",
+            "stars": 2801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual SLAM Roadmap",
+          "description": "Roadmap to becoming a Visual-SLAM developer in 2022 by @changh95",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-07-19T23:40:16Z",
+            "owner": "changh95",
+            "repo": "visual-slam-roadmap",
+            "stars": 1750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autonomous Vehicle Control Beginners Guide",
+          "description": "Beginner's guide to learning the basic way of thinking and representative algorithms for Autonomous Vehicle Control",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T12:32:30Z",
+            "owner": "ShisatoYano",
+            "repo": "AutonomousVehicleControlBeginnersGuide",
+            "stars": 1641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ Optimizations Diary",
+          "description": "Tips and tricks to optimize your C++ code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-21T03:01:11Z",
+            "owner": "facontidavide",
+            "repo": "CPP_Optimizations_Diary",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPP Optimizations Diary",
+          "description": "Tips and tricks to optimize your C++ code by Davide Faconti",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-21T03:01:11Z",
+            "owner": "facontidavide",
+            "repo": "CPP_Optimizations_Diary",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self Driving Cars",
+          "description": "Coursera Open Courses from University of Toronto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-04-04T01:59:19Z",
+            "owner": "qiaoxu123",
+            "repo": "Self-Driving-Cars",
+            "stars": 1108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Weekly Robotics",
+          "description": "A collection of useful links discovered through the work on Weekly Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-31T20:20:18Z",
+            "owner": "msadowski",
+            "repo": "awesome-weekly-robotics",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Robotics and Perception",
+          "description": "Introduction to Robotics and Perception by Frank Dellaert",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-10T18:41:05Z",
+            "owner": "gtbook",
+            "repo": "robotics",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sensor Fusion Tutorial",
+          "description": "A tutorial for sensor fusion using the robot_localization package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-15T19:08:11Z",
+            "owner": "methylDragon",
+            "repo": "ros-sensor-fusion-tutorial",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern Robotics Course",
+          "description": "The lessons for Modern Robotics Course",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-12T00:23:46Z",
+            "owner": "madibabaiasl",
+            "repo": "modern-robotics-course",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced C++",
+          "description": "Code for Advanced C++ course",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-16T11:56:27Z",
+            "owner": "caveofprogramming",
+            "repo": "advanced-cplusplus",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coding Notes and Tutorials",
+          "description": "A compilation of tutorials and references for different coding languages and frameworks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-23T05:44:15Z",
+            "owner": "methylDragon",
+            "repo": "coding-notes",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coding Notes",
+          "description": "Coding notes in many programming languages by methylDragon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-23T05:44:15Z",
+            "owner": "methylDragon",
+            "repo": "coding-notes",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS2 C++ learning",
+          "description": "Antonio Mauro Galiano",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-11T14:28:45Z",
+            "owner": "dottantgal",
+            "repo": "ROS2_learning",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS Industrial Training",
+          "description": "ROS Industrial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T02:36:40Z",
+            "owner": "ros-industrial",
+            "repo": "industrial_training",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyVisualOdometry",
+          "description": "Polygon-Software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-11T16:39:55Z",
+            "owner": "polygon-software",
+            "repo": "python-visual-odometry",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trending in 3D Vision",
+          "description": "Dragonlong",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-17T19:09:48Z",
+            "owner": "dragonlong",
+            "repo": "Trending-in-3D-Vision",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLAM Resources for Beginners",
+          "description": "Highly recommended resources for SLAM newbies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-29T09:46:36Z",
+            "owner": "Taeyoung96",
+            "repo": "SLAM-Resources-for-Beginner",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rosetta Launch",
+          "description": "A guide to understanding launch files in ROS 1 and ROS 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T19:45:32Z",
+            "owner": "MetroRobots",
+            "repo": "rosetta_launch",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KF in Python",
+          "description": "Kalman Filter in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-13T03:27:38Z",
+            "owner": "tbmoon",
+            "repo": "kalman_filter",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KITTI Odometry in Python and OpenCV",
+          "description": "Nate Cibik",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-11T10:23:37Z",
+            "owner": "FoamoftheSea",
+            "repo": "KITTI_visual_odometry",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS Autonomous Driving and Path Planning SLAM with TurtleBot3",
+          "description": "Muhammad Luqman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-26T03:08:29Z",
+            "owner": "noshluk2",
+            "repo": "ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ for Beginners",
+          "description": "Code for C++ for Beginners",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-10-09T04:36:35Z",
+            "owner": "caveofprogramming",
+            "repo": "cplusplus-beginners",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile Sensing and Robotics - 2020/21",
+          "description": "A robotics course by Prof. C. Stachniss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-16T14:25:39Z",
+            "owner": "ZohebAbai",
+            "repo": "mobile_sensing_robotics",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS 2 Best Practices",
+          "description": "It provides ROS 2 developers with a set of best practices and object-oriented programming methods to enhance their development process",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-17T15:37:23Z",
+            "owner": "AhmettCelik1",
+            "repo": "Ros2BestPractice",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Repository RVSS",
+          "description": "Colab notebooks for the Robotic Vision Summer School by @Tobias-Fischer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-16T05:02:42Z",
+            "owner": "rvss-australia",
+            "repo": "RVSS",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS2 Ultimate learners Repository with Supporting Documentation",
+          "description": "Muhammad Luqman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-13T05:57:41Z",
+            "owner": "noshluk2",
+            "repo": "ROS2-Ultimate-learners-Repository",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python course",
+          "description": "Code for Python and Machine Learning for Complete Beginners",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-08T22:09:20Z",
+            "owner": "caveofprogramming",
+            "repo": "PythonCourse",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autonomous Driving Lecture",
+          "description": "Autonomous driving lecture resources by Mayakshanesht",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-18T09:36:56Z",
+            "owner": "Mayakshanesht",
+            "repo": "Autonomous_Driving_Lecture_resources",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS Book Sample Code",
+          "description": "Programming Robots with ROS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2017-04-26T04:45:41Z",
+            "owner": "gbiggs",
+            "repo": "ros_book_sample_code",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Papers of Autonomous Driving",
+          "description": "Papers about Motion Planning, Control, Multi-Robot Systems, Perception, Ethics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-31T07:25:03Z",
+            "owner": "ShenoyVaradaraya",
+            "repo": "awesome-papers-of-autonomous-driving",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Self-Driving",
+          "description": "Ivan Deylid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-06T12:50:35Z",
+            "owner": "Sid1057",
+            "repo": "awesome-self-driving",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pigeon ROS Tutorial",
+          "description": "Provides a reference for ROS Robot Programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2023-09-10T16:40:24Z",
+            "owner": "PigeonSensei",
+            "repo": "pigeon_ros_tutorial",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Path Planning Algorithms",
+          "description": "KamalanathanN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-14T20:15:42Z",
+            "owner": "KamalanathanN",
+            "repo": "PathPlanning",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Introduction to Autonomous Robots",
+          "description": "Nikolaus Correll, Magellan Scientific",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-02-11T23:38:22Z",
+            "owner": "Introduction-to-Autonomous-Robots",
+            "repo": "Introduction-to-Autonomous-Robots",
+            "stars": 3307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLAM Book",
+          "description": "Xiang Gao",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-07-07T03:07:24Z",
+            "owner": "gaoxiang12",
+            "repo": "slambook-en",
+            "stars": 1902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Concise Introduction to Robot Programming with ROS2",
+          "description": "Francisco Martín Rico",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-26T18:49:25Z",
+            "owner": "fmrico",
+            "repo": "book_ros2",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robotics, Vision & Control: 3rd edition in Python",
+          "description": "Peter Corke, published by Springer-Nature 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T03:36:33Z",
+            "owner": "petercorke",
+            "repo": "RVC3-python",
+            "stars": 746
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Udacity Self-Driving Car",
+          "description": "Udacity",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-25T10:41:52Z",
+            "owner": "udacity",
+            "repo": "self-driving-car",
+            "stars": 6317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NASA 3D models",
+          "description": "3D models, textures, and images from inside NASA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-03T16:01:14Z",
+            "owner": "nasa",
+            "repo": "NASA-3D-Resources",
+            "stars": 3737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLAM Datasets",
+          "description": "A collection of SLAM-related datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-13T04:29:23Z",
+            "owner": "youngguncho",
+            "repo": "awesome-slam-datasets",
+            "stars": 1941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome SLAM Datasets",
+          "description": "A curated list of awesome datasets for SLAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-13T04:29:23Z",
+            "owner": "youngguncho",
+            "repo": "awesome-slam-datasets",
+            "stars": 1941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LIDAR",
+          "description": "The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-16T09:19:48Z",
+            "owner": "szenergy",
+            "repo": "awesome-lidar",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gazebo models",
+          "description": "This repository holds the Gazebo model database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-14T04:45:37Z",
+            "owner": "osrf",
+            "repo": "gazebo_models",
+            "stars": 1297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARKitScenes",
+          "description": "Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-21T11:15:13Z",
+            "owner": "apple",
+            "repo": "ARKitScenes",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LINS -- LiDAR-inertial-SLAM",
+          "description": "A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-10-19T14:04:23Z",
+            "owner": "ChaoqinRobotics",
+            "repo": "LINS---LiDAR-inertial-SLAM",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gazebo Models and Worlds collection",
+          "description": "This repository contains models and worlds files for Gazebo, which are collected from several public projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2023-05-29T09:50:45Z",
+            "owner": "leonhartyao",
+            "repo": "gazebo_models_worlds_collection",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Object Detection for Autonomous Driving",
+          "description": "Papers on 3D Object Detection for Autonomous Driving",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-04T09:49:08Z",
+            "owner": "PointsCoder",
+            "repo": "Awesome-3D-Object-Detection-for-Autonomous-Driving",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berkeley DeepDrive (BDD)",
+          "description": "Berkeley",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-09T10:30:02Z",
+            "owner": "bdd100k",
+            "repo": "bdd100k",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics Dataset",
+          "description": "A collection of useful datasets for robotics and computer vision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-26T19:34:00Z",
+            "owner": "mint-lab",
+            "repo": "awesome-robotics-datasets",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome 3D LiDAR Datasets",
+          "description": "A collection for public 3D LiDAR datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-12T07:14:03Z",
+            "owner": "minwoo0611",
+            "repo": "Awesome-3D-LiDAR-Datasets",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RELLIS-3D",
+          "description": "A multimodal dataset collected in an off-road environment containing annotations for 13,556 LiDAR scans and 6,235 images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-23T17:49:25Z",
+            "owner": "unmannedlab",
+            "repo": "RELLIS-3D",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RELLIS-3D",
+          "description": "A Multi-modal Dataset for Off-Road Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-23T17:49:25Z",
+            "owner": "unmannedlab",
+            "repo": "RELLIS-3D",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenScene",
+          "description": "3D Occupancy Prediction Benchmark in Autonomous Driving",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T05:45:29Z",
+            "owner": "OpenDriveLab",
+            "repo": "OpenScene",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laser Line Extraction",
+          "description": "A ROS package that extracts line segments from LaserScan messages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-15T01:14:00Z",
+            "owner": "kam3k",
+            "repo": "laser_line_extraction",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argoverse 2",
+          "description": "The official GitHub repository for the Argoverse 2 dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-19T05:33:57Z",
+            "owner": "argoverse",
+            "repo": "av2-api",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome RGB-D Datasets",
+          "description": "A Survey on RGB-D Datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-31T01:25:27Z",
+            "owner": "alelopes",
+            "repo": "awesome-rgbd-datasets",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLEARPATH Simulation Environments",
+          "description": "CLEARPATH's GAZEBO SIMULATION ENVIRONMENTS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2023-11-29T17:49:06Z",
+            "owner": "clearpathrobotics",
+            "repo": "cpr_gazebo",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ground-Challenge",
+          "description": "A Ground Robot SLAM Dataset Focusing on Corner Cases and Sensor Failures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T07:57:46Z",
+            "owner": "sjtuyinjie",
+            "repo": "Ground-Challenge",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeBula",
+          "description": "NeBula odometry dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-14T22:57:47Z",
+            "owner": "NeBula-Autonomy",
+            "repo": "nebula-odometry-dataset",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALITA",
+          "description": "A Large-scale Incremental Dataset for Long-term Autonomy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-20T07:04:52Z",
+            "owner": "MetaSLAM",
+            "repo": "ALITA",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIDAR-CS",
+          "description": "LiDAR Dataset with Cross-Sensors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-02-11T04:21:07Z",
+            "owner": "LiDAR-Perception",
+            "repo": "LiDAR-CS",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASTYX HiReS2019",
+          "description": "ASTYX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-24T13:09:44Z",
+            "owner": "under-the-radar",
+            "repo": "radar_dataset_astyx",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ENAV planetary Dataset",
+          "description": "Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-09T23:10:58Z",
+            "owner": "utiasSTARS",
+            "repo": "enav-planetary-dataset",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terrasentia Dataset",
+          "description": "A dataset for evaluation of visual-based localization and mapping systems in agriculture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-16T18:39:00Z",
+            "owner": "jrcuaranv",
+            "repo": "terrasentia-dataset",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome ChatGPT Prompts",
+          "description": "ChatGPT prompt curation to use ChatGPT better",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T03:49:09Z",
+            "owner": "f",
+            "repo": "prompts.chat",
+            "stars": 167071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openpilot",
+          "description": "Open source driver assistance system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:35:44Z",
+            "owner": "commaai",
+            "repo": "openpilot",
+            "stars": 63398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Face Recognition",
+          "description": "The world's simplest facial recognition API for Python and the command line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T11:12:50Z",
+            "owner": "ageitgey",
+            "repo": "face_recognition",
+            "stars": 56653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment Anything",
+          "description": "A new task, model, and dataset for image segmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-18T17:46:55Z",
+            "owner": "facebookresearch",
+            "repo": "segment-anything",
+            "stars": 54679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PythonRobotics",
+          "description": "Python code collection of robotics algorithms, especially for autonomous navigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:02:58Z",
+            "owner": "AtsushiSakai",
+            "repo": "PythonRobotics",
+            "stars": 30293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apollo",
+          "description": "A high-performance, flexible architecture that accelerates the development, testing, and deployment of Autonomous Vehicles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-16T12:24:54Z",
+            "owner": "ApolloAuto",
+            "repo": "apollo",
+            "stars": 26792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirSim",
+          "description": "A simulator for drones (and soon other vehicles) built on Unreal Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-30T19:34:07Z",
+            "owner": "microsoft",
+            "repo": "AirSim",
+            "stars": 18393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Engineering Manager Resources",
+          "description": "A list of engineering leadership resource links",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-15T15:23:04Z",
+            "owner": "ryanburgess",
+            "repo": "engineer-manager",
+            "stars": 10723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FTXUI",
+          "description": "C++ Functional Terminal User Interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:35:44Z",
+            "owner": "ArthurSonzogni",
+            "repo": "FTXUI",
+            "stars": 10536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORB-SLAM2",
+          "description": "University of Zaragoza - Raúl Mur Artal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-15T07:48:28Z",
+            "owner": "raulmur",
+            "repo": "ORB_SLAM2",
+            "stars": 10208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIO-SAM",
+          "description": "A real-time lidar-inertial odometry package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-14T10:05:51Z",
+            "owner": "TixiaoShan",
+            "repo": "LIO-SAM",
+            "stars": 4881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIO-SAM",
+          "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-14T10:05:51Z",
+            "owner": "TixiaoShan",
+            "repo": "LIO-SAM",
+            "stars": 4881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Localization toolbox - HLOC",
+          "description": "A modular toolbox for state-of-the-art 6-DoF visual localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-10T10:00:19Z",
+            "owner": "cvg",
+            "repo": "Hierarchical-Localization",
+            "stars": 4176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GTSAM",
+          "description": "A C++ library that implements smoothing and mapping (SAM) in robotics and vision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T04:21:29Z",
+            "owner": "borglab",
+            "repo": "gtsam",
+            "stars": 3629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast-Planner",
+          "description": "It aims to enable quadrotor fast flight in complex unknown environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-24T13:12:43Z",
+            "owner": "HKUST-Aerial-Robotics",
+            "repo": "Fast-Planner",
+            "stars": 3385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": "An open source autonomous drone software platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-03T05:10:39Z",
+            "owner": "amov-lab",
+            "repo": "Prometheus",
+            "stars": 3233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robotics Toolbox for Python",
+          "description": "Robotics Toolbox for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:35:03Z",
+            "owner": "petercorke",
+            "repo": "robotics-toolbox-python",
+            "stars": 3215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lane Detection",
+          "description": "Papers, tutorials, and code about Lane Detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-16T02:29:01Z",
+            "owner": "amusi",
+            "repo": "awesome-lane-detection",
+            "stars": 3063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVINS",
+          "description": "Computer vision code along with a state-of-the art filter-based visual-inertial estimator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-30T08:23:17Z",
+            "owner": "rpng",
+            "repo": "open_vins",
+            "stars": 3038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics Libraries",
+          "description": "A curated list of robotics simulators and libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T23:31:04Z",
+            "owner": "jslee02",
+            "repo": "awesome-robotics-libraries",
+            "stars": 3013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maplab",
+          "description": "A Modular and Multi-Modal Mapping Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-31T08:49:33Z",
+            "owner": "ethz-asl",
+            "repo": "maplab",
+            "stars": 2864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLAM Research",
+          "description": "List of SLAM works since 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-21T06:16:45Z",
+            "owner": "YiChenCityU",
+            "repo": "Recent_SLAM_Research",
+            "stars": 2742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motion planners implementations",
+          "description": "This repository implemented some common motion planners used on autonomous vehicles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-13T06:05:01Z",
+            "owner": "zhm-real",
+            "repo": "MotionPlanning",
+            "stars": 2728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EGO-Planner",
+          "description": "This is a lightweight but robust quadrotor local planning framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-08T09:23:46Z",
+            "owner": "ZJU-FAST-Lab",
+            "repo": "ego-planner",
+            "stars": 2601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLAM Toolbox",
+          "description": "A set of tools and capabilities for 2D SLAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T23:16:32Z",
+            "owner": "SteveMacenski",
+            "repo": "slam_toolbox",
+            "stars": 2600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robosuite",
+          "description": "A simulation framework powered by the MuJoCo physics engine for robot learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T23:47:48Z",
+            "owner": "ARISE-Initiative",
+            "repo": "robosuite",
+            "stars": 2556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Visual SLAM",
+          "description": "The list of vision-based SLAM / Visual Odometry open source projects, libraries, datasets, tools, and studies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-10T17:57:19Z",
+            "owner": "tzutalin",
+            "repo": "awesome-visual-slam",
+            "stars": 2429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webviz",
+          "description": "Web-based application for playback and visualization of ROS bag files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-17T00:27:21Z",
+            "owner": "cruise-automation",
+            "repo": "webviz",
+            "stars": 2324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdl_graph_slam",
+          "description": "An open source ROS package for real-time 6DOF SLAM using a 3D LIDAR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-16T01:39:14Z",
+            "owner": "koide3",
+            "repo": "hdl_graph_slam",
+            "stars": 2323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POLYSCOPE",
+          "description": "A C++/Python viewer and user interface for 3D data such as meshes and point clouds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-20T05:55:33Z",
+            "owner": "nmwsharp",
+            "repo": "polyscope",
+            "stars": 2193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRPT Project",
+          "description": "Mobile Robot Programming Toolkit provides C++ libraries aimed at researchers in mobile robotics and computer vision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T22:19:27Z",
+            "owner": "MRPT",
+            "repo": "mrpt",
+            "stars": 2154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kimera",
+          "description": "A C++ library for real-time metric-semantic SLAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-30T22:12:14Z",
+            "owner": "MIT-SPARK",
+            "repo": "Kimera",
+            "stars": 2114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoveIt",
+          "description": "An open-source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T10:18:45Z",
+            "owner": "moveit",
+            "repo": "moveit",
+            "stars": 2074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSCKF_VIO",
+          "description": "Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-22T09:11:28Z",
+            "owner": "KumarRobotics",
+            "repo": "msckf_vio",
+            "stars": 1963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robot-Centric Elevation Mapping",
+          "description": "Robot-centric elevation mapping for rough terrain navigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-04T10:55:13Z",
+            "owner": "ANYbotics",
+            "repo": "elevation_mapping",
+            "stars": 1845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome YOLO Ojbect Detection",
+          "description": "A collection of some awesome YOLO series projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-31T02:13:33Z",
+            "owner": "coderonion",
+            "repo": "awesome-yolo-object-detection",
+            "stars": 1779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS Best Practices",
+          "description": "A loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-01-22T10:50:36Z",
+            "owner": "leggedrobotics",
+            "repo": "ros_best_practices",
+            "stars": 1637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORB-SLAM",
+          "description": "University of Zaragoza - Raúl Mur Artal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-09-18T00:48:53Z",
+            "owner": "raulmur",
+            "repo": "ORB_SLAM",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robot Descriptions",
+          "description": "A curated list of awesome robot descriptions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T09:53:46Z",
+            "owner": "robot-descriptions",
+            "repo": "awesome-robot-descriptions",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVO Pro",
+          "description": "Semi-direct Visual Odometry (SVO)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-19T05:56:46Z",
+            "owner": "uzh-rpg",
+            "repo": "rpg_svo_pro_open",
+            "stars": 1597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NICE-SLAM",
+          "description": "Neural Implicit Scalable Encoding for 3D SLAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-10T19:06:09Z",
+            "owner": "cvg",
+            "repo": "nice-slam",
+            "stars": 1594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GradSLAM",
+          "description": "A fully differentiable dense SLAM framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-02T16:35:54Z",
+            "owner": "gradslam",
+            "repo": "gradslam",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dense Fusion",
+          "description": "6D Object Pose Estimation by Iterative Dense Fusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-02T20:27:09Z",
+            "owner": "j96w",
+            "repo": "DenseFusion",
+            "stars": 1274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROSboard",
+          "description": "ROS node that runs a web server on your robot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-27T20:58:16Z",
+            "owner": "dheera",
+            "repo": "rosboard",
+            "stars": 1154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini Pupper",
+          "description": "ROS, OpenCV, Open-source, Pi Robot Dog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T08:44:50Z",
+            "owner": "mangdangroboticsclub",
+            "repo": "QuadrupedRobot",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROSshow",
+          "description": "Visualize ROS topics in a terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-29T03:18:51Z",
+            "owner": "dheera",
+            "repo": "rosshow",
+            "stars": 1145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast LOAM",
+          "description": "Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-30T19:32:24Z",
+            "owner": "wh200720041",
+            "repo": "floam",
+            "stars": 1143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAR Planner",
+          "description": "Fast, Attemptable Route Planner for Navigation in Known and Unknown Environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-25T20:52:23Z",
+            "owner": "MichaelFYang",
+            "repo": "far_planner",
+            "stars": 1005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Small GICP",
+          "description": "A header-only C++ library that offers efficient and parallelized algorithms for fine point cloud registration (ICP, Point-to-Plane ICP, GICP, VGICP, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:20:27Z",
+            "owner": "koide3",
+            "repo": "small_gicp",
+            "stars": 1001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS Noetic Tutorials",
+          "description": "ROS tutorials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T18:48:33Z",
+            "owner": "ros",
+            "repo": "ros_tutorials",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORB-SLAM2 Point Cloud",
+          "description": "A modified ORB_SLAM2 with an online point cloud map module running in RGB-D mode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-17T06:26:52Z",
+            "owner": "gaoxiang12",
+            "repo": "ORBSLAM2_with_pointcloud_map",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BALM",
+          "description": "Bundle Adjustment for Lidar Mapping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-19T15:51:25Z",
+            "owner": "hku-mars",
+            "repo": "BALM",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Treexy",
+          "description": "Library that implements a compact hierarchical data structure that can store and manipulate volumetric data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T09:20:57Z",
+            "owner": "facontidavide",
+            "repo": "Bonxai",
+            "stars": 867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fields2Cover",
+          "description": "Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T08:59:42Z",
+            "owner": "Fields2Cover",
+            "repo": "Fields2Cover",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIO SAM 6AXIS",
+          "description": "How to adapt LIO_SAM to your own sensors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-15T10:51:10Z",
+            "owner": "JokerJohn",
+            "repo": "LIO_SAM_6AXIS",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GBPlanner",
+          "description": "aGBPlanner is a new software package for Graph-based exploration path planning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T21:46:17Z",
+            "owner": "ntnu-arl",
+            "repo": "gbplanner_ros",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KR Autonomous Flight",
+          "description": "The autonomous flight code stack used at KumarRobotics, providing a complete solution for GPS-denied quadcopter autonomy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-18T16:07:08Z",
+            "owner": "KumarRobotics",
+            "repo": "kr_autonomous_flight",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSD (LiDAR SLAM & Detection",
+          "description": "SD is an open-source perception architecture for autonomous vehicle and robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-01T12:10:34Z",
+            "owner": "w111liang222",
+            "repo": "lidar-slam-detection",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DS-SLAM",
+          "description": "A complete robust semantic SLAM system, which could reduce the influence of dynamic objects on pose estimation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-10-05T03:06:45Z",
+            "owner": "ivipsourcecode",
+            "repo": "DS-SLAM",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDR Project",
+          "description": "A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T06:16:19Z",
+            "owner": "opendr-eu",
+            "repo": "opendr",
+            "stars": 729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPENCER",
+          "description": "Multi-modal ROS-based people detection and tracking framework for mobile robots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-02-02T14:51:30Z",
+            "owner": "spencer-project",
+            "repo": "spencer_people_tracking",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MATLABRobotics",
+          "description": "MATLAB sample codes for mobile robot navigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-11-10T23:36:18Z",
+            "owner": "AtsushiSakai",
+            "repo": "MATLABRobotics",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynablox",
+          "description": "An online volumetric mapping-based approach for real-time detection of diverse dynamic objects in complex environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-09T21:17:07Z",
+            "owner": "ethz-asl",
+            "repo": "dynablox",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOLD2",
+          "description": "Joint deep network for feature line detection and description",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-26T07:52:56Z",
+            "owner": "cvg",
+            "repo": "SOLD2",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pedestrian Simulator",
+          "description": "ROS packages for a 2D pedestrian simulator based on social force model of Helbing et. al. (PedSim_ROS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-07T16:07:43Z",
+            "owner": "srl-freiburg",
+            "repo": "pedsim_ros",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Detection & Tracking Viewer",
+          "description": "View 3D object detection and tracking results",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-28T21:58:41Z",
+            "owner": "hailanyi",
+            "repo": "3D-Detection-Tracking-Viewer",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monocular Quasi-Dense 3D Object Tracking",
+          "description": "Monocular Quasi-Dense 3D Object Tracking (QD-3DT)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-16T10:35:59Z",
+            "owner": "SysCV",
+            "repo": "qd-3dt",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SalsaNext",
+          "description": "A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-20T20:13:02Z",
+            "owner": "TiagoCortinhal",
+            "repo": "SalsaNext",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "READ",
+          "description": "Large-Scale Neural Scene Rendering for Autonomous Driving",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-18T14:58:49Z",
+            "owner": "JOP-Lee",
+            "repo": "READ",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rosbag Editor",
+          "description": "Create a rosbag from a given one, using a simple GUI by @facontidavide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-03-25T03:34:19Z",
+            "owner": "facontidavide",
+            "repo": "rosbag_editor",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UFOMap",
+          "description": "Efficient probabilistic 3D mapping framework with an explicit representation of unknown space",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-27T11:35:36Z",
+            "owner": "UnknownFreeOccupied",
+            "repo": "ufomap",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome point cloud place recognition",
+          "description": "List of papers about point cloud-based place recognition in SLAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-25T00:12:59Z",
+            "owner": "kxhit",
+            "repo": "awesome-point-cloud-place-recognition",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Assistive Gym",
+          "description": "A physics-based simulation framework for physical human-robot interaction and robotic assistance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-26T08:40:16Z",
+            "owner": "Healthcare-Robotics",
+            "repo": "assistive-gym",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PL-SLAM",
+          "description": "Real-time monocular 3D SLAM system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-07-27T12:06:52Z",
+            "owner": "yanyan-li",
+            "repo": "Structure-SLAM-PointLine",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LOCUS",
+          "description": "A Multi-Sensor Lidar-Centric Solution for High-Precision Odometry and 3D Mapping in Real-Time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-29T15:57:05Z",
+            "owner": "NeBula-Autonomy",
+            "repo": "LOCUS",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robo3D",
+          "description": "Towards Robust and Reliable 3D Perception against Corruptions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-06T11:05:24Z",
+            "owner": "worldbench",
+            "repo": "Robo3D",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSL_SLAM2",
+          "description": "Lightweight 3-D Localization and Mapping for Solid-State LiDAR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-24T07:48:36Z",
+            "owner": "wh200720041",
+            "repo": "ssl_slam2",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MBPlanner",
+          "description": "A ROS software package for Motion Primitives-based Exploration Path Planning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-19T14:51:49Z",
+            "owner": "ntnu-arl",
+            "repo": "mbplanner_ros",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Urban Road Filter",
+          "description": "A real-time LIDAR-based urban road and sidewalk detection algorithm for autonomous vehicles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-06T10:50:51Z",
+            "owner": "jkk-research",
+            "repo": "urban_road_filter",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPS Waypoint Based Autonomous Navigation in ROS",
+          "description": "GPS points will be predefined in ROS-based robots to navigate to the destination avoiding obstacles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-28T18:20:57Z",
+            "owner": "ArghyaChatterjee",
+            "repo": "gps-waypoint-based-autonomous-navigation-in-ros",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPS Waypoint-based Autonomous Navigation in ROS",
+          "description": "GPS points will be predefined in ROS-based robots to navigate to the destination avoiding obstacles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-28T18:20:57Z",
+            "owner": "ArghyaChatterjee",
+            "repo": "gps-waypoint-based-autonomous-navigation-in-ros",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonnet",
+          "description": "An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-21T22:20:15Z",
+            "owner": "PRBonn",
+            "repo": "bonnet",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planar Recon",
+          "description": "Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-29T21:43:50Z",
+            "owner": "neu-vi",
+            "repo": "PlanarRecon",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORB-SLAM3-RGBL",
+          "description": "RGB-LiDAR added to the ORB-SLAM3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-07T07:19:56Z",
+            "owner": "TUMFTM",
+            "repo": "ORB_SLAM3_RGBL",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FusionCore",
+          "description": "A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:18:25Z",
+            "owner": "manankharwar",
+            "repo": "fusioncore",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LidarView",
+          "description": "Real-time reception, recording, visualization and processing of 3D LiDAR data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-16T16:26:53Z",
+            "owner": "Kitware",
+            "repo": "LidarView",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontier Exploration",
+          "description": "ROS Node and Costmap 2D plugin layer for frontier exploration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-20T04:18:46Z",
+            "owner": "paulbovbel",
+            "repo": "frontier_exploration",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3DMR",
+          "description": "3D Multi-Robot Exploration, Patrolling and Navigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-13T14:10:54Z",
+            "owner": "luigifreda",
+            "repo": "3dmr",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to drive smoothly",
+          "description": "Learning to drive smoothly in minutes, using a reinforcement learning algorithm -- Soft Actor-Critic (SAC) -- and a Variational AutoEncoder (VAE) in the Donkey Car simulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-05T21:31:25Z",
+            "owner": "araffin",
+            "repo": "learning-to-drive-in-5-minutes",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiSCo-SLAM",
+          "description": "A novel framework for distributed, multi-robot SLAM intended for use with 3D LiDAR observations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-04T16:52:09Z",
+            "owner": "RobustFieldAutonomyLab",
+            "repo": "DiSCo-SLAM",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiSCo-SLAM",
+          "description": "Novel framework for distributed, multi-robot SLAM intended for use with 3D LiDAR observations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-04T16:52:09Z",
+            "owner": "RobustFieldAutonomyLab",
+            "repo": "DiSCo-SLAM",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fiducials",
+          "description": "Simultaneous localization and mapping using fiducial markers (SLAM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-27T12:02:10Z",
+            "owner": "UbiquityRobotics",
+            "repo": "fiducials",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Acorn precision farming rover",
+          "description": "Acorn, the precision farming rover by Twisted Fields",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-06T08:07:48Z",
+            "owner": "Twisted-Fields",
+            "repo": "acorn-precision-farming-rover",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bag of Visual Words",
+          "description": "Bag of Visual Words from Olga Vysotska",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-11T15:01:12Z",
+            "owner": "ovysotska",
+            "repo": "in_simple_english",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Small projects to clarify big concepts",
+          "description": "Explanation of concepts from Olga Vysotska",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-11T15:01:12Z",
+            "owner": "ovysotska",
+            "repo": "in_simple_english",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vizanti - Web Visualizer & Mission Planner for ROS",
+          "description": "A mission planner and visualizer for controlling outdoor ROS robots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:53:07Z",
+            "owner": "MoffKalast",
+            "repo": "vizanti",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Drone Acrobatics",
+          "description": "The code allows you to train end-to-end control policies to fly acrobatic maneuvers with drones",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:46:24Z",
+            "owner": "uzh-rpg",
+            "repo": "deep_drone_acrobatics",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All about ROS 2 and the new Gazebo",
+          "description": "ICRA 2023 Tutorial on ROS 2 and the new Gazebo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2024-10-09T14:35:14Z",
+            "owner": "osrf",
+            "repo": "icra2023_ros2_gz_tutorial",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS2 Path Planning and Maze Solving",
+          "description": "Maze Solving using Computer Vision In ROS2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T12:54:03Z",
+            "owner": "HaiderAbasi",
+            "repo": "ROS2-Path-Planning-and-Maze-Solving",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkiROS",
+          "description": "A platform to create complex robot behaviors by composing skills - modular software blocks - into behavior trees",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-09T09:18:48Z",
+            "owner": "RobotLabLTH",
+            "repo": "SkiROS2",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMS_SLAM",
+          "description": "Multi-modal semantic SLAM in dynamic environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-24T07:48:06Z",
+            "owner": "wh200720041",
+            "repo": "mms_slam",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dear ROS Node Viewer",
+          "description": "Visualize ROS2 Node Graph",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T10:11:48Z",
+            "owner": "iwatake2222",
+            "repo": "dear_ros_node_viewer",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVO: Event-based Visual Odometry",
+          "description": "EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-31T11:34:02Z",
+            "owner": "uzh-rpg",
+            "repo": "rpg_dvs_evo_open",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dubins Path Planning",
+          "description": "Path planning using Hybrid A*/RRT + Dubins Path",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-15T18:01:42Z",
+            "owner": "jhan15",
+            "repo": "dubins_path_planning",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Summit",
+          "description": "A Simulator for Urban Driving in Massive Mixed Traffic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-21T21:01:16Z",
+            "owner": "AdaCompNUS",
+            "repo": "summit",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS SAM",
+          "description": "ROS wrapper for Meta's Segment-Anything model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2024-04-15T15:50:07Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "ros_sam",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Event-based Asynchronous Sparse CNNs",
+          "description": "It is a tool to convert models trained on synchronous image-like event representations into sparse, asynchronous models with identical output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-07T08:49:39Z",
+            "owner": "uzh-rpg",
+            "repo": "rpg_asynet",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMMLoc",
+          "description": "Dense Map Based Visual Localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-20T06:58:23Z",
+            "owner": "HyHuang1995",
+            "repo": "gmmloc",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E2ES",
+          "description": "End-to-End UAV Simulation for Visual SLAM and Navigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-01T05:44:50Z",
+            "owner": "HKPolyU-UAV",
+            "repo": "E2ES",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORB-SLAM2 Save/Load Map",
+          "description": "A modified ORB_SLAM2 with a the save/load map feature enabled",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-02-02T01:19:41Z",
+            "owner": "Alkaid-Benetnash",
+            "repo": "ORB_SLAM2",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiDAR to Image",
+          "description": "Conversion from 3D LiDAR pointcloud to images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-14T10:38:17Z",
+            "owner": "alexandrx",
+            "repo": "lidar_cloud_to_image",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iSAM",
+          "description": "A range of existing functionality for least-squares optimization, focused on the SLAM problem",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2017-03-01T17:06:02Z",
+            "owner": "ori-drs",
+            "repo": "isam",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoloV4-For-Darknet-ROS",
+          "description": "Environment in which YOLO V4 is ported to darknet_ros",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-31T06:53:26Z",
+            "owner": "Tossy0423",
+            "repo": "yolov4-for-darknet_ros",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS2 Laser scan merger",
+          "description": "A package to merge several laserscan topics by creating a new virtual laserscan topic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-23T20:41:09Z",
+            "owner": "mich1342",
+            "repo": "ros2_laser_scan_merger",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maps with Semantic and Contextual Object Information",
+          "description": "A code base to evaluate and test the semantic object mapping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-13T10:15:37Z",
+            "owner": "verlab",
+            "repo": "3DSemanticMapping_JINT_2020",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Costmap Layer",
+          "description": "ROS-Package that implements a costmap layer to add virtual obstacles and to define navigation zone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-09T04:16:12Z",
+            "owner": "GMahmoud",
+            "repo": "virtual_costmap_layer",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darknet ROS 3D",
+          "description": "It provides you 3d bounding boxes of the objects contained in an objects list, where is specificated the 3d position of each object",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-02T05:25:05Z",
+            "owner": "IntelligentRoboticsLabs",
+            "repo": "gb_visual_detection_3d",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSSDC-SIM",
+          "description": "An Autonomous Vehicle Simulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-10T22:06:10Z",
+            "owner": "OSSDC",
+            "repo": "OSSDC-SIM",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SC-LeGO-LOAM",
+          "description": "LiDAR place recognition method for LiDAR SLAM applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-04T14:55:16Z",
+            "owner": "gisbi-kim",
+            "repo": "SC-LeGO-LOAM",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiDAR Ground Mapping",
+          "description": "A method to create high-density ground maps for autonomous vehicles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-01-21T07:53:12Z",
+            "owner": "alexandrx",
+            "repo": "lidar_hd_ground_mapping",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crowd-SLAM",
+          "description": "A visual SLAM system that is robust in crowded scenarios",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-02T15:11:18Z",
+            "owner": "virgolinosoares",
+            "repo": "Crowd-SLAM",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STDyn-SLAM",
+          "description": "A Stereo Vision and Semantic Segmentation Approach for SLAM in Dynamic Outdoor Environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-11-11T19:39:32Z",
+            "owner": "DanielaEsparza",
+            "repo": "STDyn-SLAM",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Track, Check, Repeat: An EM Approach to Unsupervised Tracking",
+          "description": "An EM approach to unsupervised tracking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-21T19:05:22Z",
+            "owner": "aharley",
+            "repo": "track_check_repeat",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terrain Mapping",
+          "description": "Solving Occlusion in Terrain Mapping with Neural Networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-01T19:58:10Z",
+            "owner": "mstoelzle",
+            "repo": "solving-occlusion",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Global Planner Plugin",
+          "description": "A Global planner plugin for move_base",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-31T11:06:35Z",
+            "owner": "smitdumore",
+            "repo": "My-Global-Planner",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini Pupper Trajectory Optimization",
+          "description": "Low-torque and low-impact trajectories for Mini-Pupper quadrupedal robot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-02T00:16:00Z",
+            "owner": "mayataka",
+            "repo": "mini_pupper_trajopt",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DockerSLAM",
+          "description": "User-friendly Docker images for SLAM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-07-07T13:06:13Z",
+            "owner": "HyeonJaeGil",
+            "repo": "DockerSLAM",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdcp_planning",
+          "description": "An online Hex-Decomposed Coverage Planning (HDCP) algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-21T07:43:53Z",
+            "owner": "UCR-Robotics",
+            "repo": "hdcp_planning",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABot",
+          "description": "ABot is a differential drive mobile robot based on Robot Operating System (ROS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2022-11-15T09:04:55Z",
+            "owner": "KamalanathanN",
+            "repo": "abot",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F110-MPC",
+          "description": "Model predictive control in f1tenth simulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-09-03T20:47:31Z",
+            "owner": "smitdumore",
+            "repo": "f110-mpc",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clober",
+          "description": "Clober is a next-generation robot research platform from Clobot that is specifically targeting research systems that require multi-robot hardware possible to attach and detach accessories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-23T23:33:18Z",
+            "owner": "CLOBOT-Co-Ltd",
+            "repo": "clober",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViMantic",
+          "description": "Distributed architecture for semantic mapping of environments using mobile robots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-23T08:32:43Z",
+            "owner": "DavidFernandezChaves",
+            "repo": "ViMantic-Unity3DNode",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCL-SLAM",
+          "description": "Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-27T04:46:35Z",
+            "owner": "PengYu-Team",
+            "repo": "DCL-SLAM",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Softwares and Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robot Hacking Manual",
+          "description": "Papers, notes, and writeups from a journey into robot cybersecurity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-07-14T12:54:42Z",
+            "owner": "vmayoral",
+            "repo": "robot_hacking_manual",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeX Templates for documents of Inf/UFRGS",
+          "description": "Github - Prof. Lucas Schnorr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-15T18:24:18Z",
+            "owner": "schnorr",
+            "repo": "infufrgs",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotic Deliberation",
+          "description": "A curated list of awesome tools, libraries, and resources for deliberation in ROS 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-16T10:35:23Z",
+            "owner": "ros-wg-delib",
+            "repo": "awesome-ros-deliberation",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics Brazil",
+          "description": "Lista de iniciativas de robótica do Brasil!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-23T13:54:53Z",
+            "owner": "mateus-amarante",
+            "repo": "awesome-robotics-brazil",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Código aberto em 12 passos",
+          "description": "Um guia para começar a contribuir em open source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-30T16:24:13Z",
+            "owner": "chapulina",
+            "repo": "guia_codigo_aberto",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:46.801Z",
+    "original_repository": "mathiasmantelli/awesome-mobile-robotics",
+    "original_repository_sha": "03a0871296652164fe7870af55a38c3d55bf7f4b",
+    "enhanced_repository": "enhansome/enhansome-mobile-robotics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Mobile Robotics with stars"
+  }
+}

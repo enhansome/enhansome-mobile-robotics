@@ -300,7 +300,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2847
+            "stars": 2849
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-02-11T23:38:22Z",
             "owner": "Introduction-to-Autonomous-Robots",
             "repo": "Introduction-to-Autonomous-Robots",
-            "stars": 3407
+            "stars": 3409
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-08-19T03:21:13Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167529
+            "stars": 167531
           }
         },
         {
@@ -1353,7 +1353,7 @@
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30323
+            "stars": 30324
           }
         },
         {
@@ -3362,7 +3362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:56.543Z",
+    "last_updated": "2026-08-19T13:11:20.960Z",
     "original_repository": "mathiasmantelli/awesome-mobile-robotics",
     "original_repository_id": 274975229,
     "original_repository_sha": "03a0871296652164fe7870af55a38c3d55bf7f4b",

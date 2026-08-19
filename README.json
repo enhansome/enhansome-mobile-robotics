@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71583602,
             "language": null,
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83085
+            "stars": 83123
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71583602,
             "language": null,
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83085
+            "stars": 83123
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29357796,
             "language": null,
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23503
+            "stars": 23504
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30907774,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T01:16:12Z",
             "owner": "spmallick",
             "repo": "learnopencv",
-            "stars": 23077
+            "stars": 23080
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292374787,
             "language": "Python",
-            "last_commit": "2026-08-14T19:59:44Z",
+            "last_commit": "2026-08-19T04:25:17Z",
             "owner": "stas00",
             "repo": "ml-engineering",
-            "stars": 18651
+            "stars": 18655
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124365799,
             "language": "HTML",
             "last_commit": "2026-04-19T05:38:55Z",
             "owner": "federico-busato",
             "repo": "Modern-CPP-Programming",
-            "stars": 16021
+            "stars": 16030
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241176242,
             "language": null,
             "last_commit": "2026-07-14T19:07:33Z",
             "owner": "girliemac",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241176242,
             "language": null,
             "last_commit": "2026-07-14T19:07:33Z",
             "owner": "girliemac",
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567848636,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-14T17:08:34Z",
             "owner": "roboflow",
             "repo": "notebooks",
-            "stars": 9615
+            "stars": 9617
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19280767,
             "language": null,
             "last_commit": "2024-08-06T07:33:26Z",
             "owner": "cpp-best-practices",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19280767,
             "language": null,
             "last_commit": "2024-08-06T07:33:26Z",
             "owner": "cpp-best-practices",
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46938122,
             "language": null,
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6959
+            "stars": 6961
           }
         },
         {
@@ -178,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470962649,
             "language": null,
             "last_commit": "2024-05-16T18:51:33Z",
             "owner": "dair-ai",
             "repo": "ML-Course-Notes",
-            "stars": 6640
+            "stars": 6642
           }
         },
         {
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69775530,
             "language": "Jupyter Notebook",
             "last_commit": "2021-11-25T10:41:52Z",
             "owner": "udacity",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298262517,
             "language": null,
             "last_commit": "2026-01-23T19:51:33Z",
             "owner": "louisfb01",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65994875,
             "language": null,
             "last_commit": "2021-10-12T04:37:11Z",
             "owner": "openMVG",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217333025,
             "language": null,
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
@@ -248,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66033005,
             "language": "C++",
             "last_commit": "2023-12-15T08:48:20Z",
             "owner": "mortennobel",
             "repo": "cpp-cheatsheet",
-            "stars": 3555
+            "stars": 3556
           }
         },
         {
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179831110,
             "language": "JavaScript",
             "last_commit": "2023-02-28T15:54:54Z",
             "owner": "mgechev",
@@ -276,11 +295,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452298460,
             "language": null,
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2832
+            "stars": 2847
           }
         },
         {
@@ -290,11 +310,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330972704,
             "language": "Astro",
             "last_commit": "2026-07-19T23:40:16Z",
             "owner": "changh95",
             "repo": "visual-slam-roadmap",
-            "stars": 1754
+            "stars": 1753
           }
         },
         {
@@ -304,11 +325,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 509475567,
             "language": "Python",
             "last_commit": "2026-07-26T12:32:30Z",
             "owner": "ShisatoYano",
             "repo": "AutonomousVehicleControlBeginnersGuide",
-            "stars": 1644
+            "stars": 1643
           }
         },
         {
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261566073,
             "language": "C++",
             "last_commit": "2023-12-21T03:01:11Z",
             "owner": "facontidavide",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261566073,
             "language": "C++",
             "last_commit": "2023-12-21T03:01:11Z",
             "owner": "facontidavide",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178836892,
             "language": "Jupyter Notebook",
             "last_commit": "2020-04-04T01:59:19Z",
             "owner": "qiaoxu123",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190376150,
             "language": null,
             "last_commit": "2026-05-31T20:20:18Z",
             "owner": "msadowski",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445181281,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T03:15:08Z",
             "owner": "gtbook",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143375487,
             "language": null,
             "last_commit": "2019-03-15T19:08:11Z",
             "owner": "methylDragon",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672551368,
             "language": null,
             "last_commit": "2026-07-12T00:23:46Z",
             "owner": "madibabaiasl",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61380770,
             "language": "C++",
             "last_commit": "2026-07-16T11:56:27Z",
             "owner": "caveofprogramming",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115735515,
             "language": "C++",
             "last_commit": "2023-11-23T05:44:15Z",
             "owner": "methylDragon",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115735515,
             "language": "C++",
             "last_commit": "2023-11-23T05:44:15Z",
             "owner": "methylDragon",
@@ -458,11 +490,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478196808,
             "language": "Python",
             "last_commit": "2025-12-11T14:28:45Z",
             "owner": "dottantgal",
             "repo": "ROS2_learning",
-            "stars": 506
+            "stars": 507
           }
         },
         {
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14630836,
             "language": "C++",
             "last_commit": "2026-07-24T02:36:40Z",
             "owner": "ros-industrial",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223194887,
             "language": "Jupyter Notebook",
             "last_commit": "2025-02-11T16:39:55Z",
             "owner": "polygon-software",
@@ -500,11 +535,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158951553,
             "language": null,
             "last_commit": "2022-06-17T19:09:48Z",
             "owner": "dragonlong",
             "repo": "Trending-in-3D-Vision",
-            "stars": 331
+            "stars": 332
           }
         },
         {
@@ -514,11 +550,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411320570,
             "language": null,
             "last_commit": "2023-07-29T09:46:36Z",
             "owner": "Taeyoung96",
             "repo": "SLAM-Resources-for-Beginner",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 596726726,
             "language": "Python",
             "last_commit": "2026-06-16T19:45:32Z",
             "owner": "MetroRobots",
@@ -537,29 +575,31 @@
         },
         {
           "node_type": "item",
-          "title": "KF in Python",
-          "description": "Kalman Filter in Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2020-03-13T03:27:38Z",
-            "owner": "tbmoon",
-            "repo": "kalman_filter",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
           "title": "KITTI Odometry in Python and OpenCV",
           "description": "Nate Cibik",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340589757,
             "language": "Jupyter Notebook",
             "last_commit": "2024-02-11T10:23:37Z",
             "owner": "FoamoftheSea",
             "repo": "KITTI_visual_odometry",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KF in Python",
+          "description": "Kalman Filter in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 225692278,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-13T03:27:38Z",
+            "owner": "tbmoon",
+            "repo": "kalman_filter",
             "stars": 171
           }
         },
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195881531,
             "language": "Python",
             "last_commit": "2023-05-26T03:08:29Z",
             "owner": "noshluk2",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62225845,
             "language": "C++",
             "last_commit": "2020-10-09T04:36:35Z",
             "owner": "caveofprogramming",
@@ -598,11 +640,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 363740849,
             "language": "Jupyter Notebook",
             "last_commit": "2021-05-16T14:25:39Z",
             "owner": "ZohebAbai",
             "repo": "mobile_sensing_robotics",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527329932,
             "language": "C++",
             "last_commit": "2023-07-17T15:37:23Z",
             "owner": "AhmettCelik1",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449455267,
             "language": "Jupyter Notebook",
             "last_commit": "2026-02-16T05:02:42Z",
             "owner": "rvss-australia",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371974136,
             "language": "Python",
             "last_commit": "2024-02-13T05:57:41Z",
             "owner": "noshluk2",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579643539,
             "language": "Python",
             "last_commit": "2025-01-08T22:09:20Z",
             "owner": "caveofprogramming",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334598064,
             "language": "Jupyter Notebook",
             "last_commit": "2022-10-18T09:36:56Z",
             "owner": "Mayakshanesht",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67770163,
             "language": "CMake",
             "last_commit": "2017-04-26T04:45:41Z",
             "owner": "gbiggs",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636640712,
             "language": null,
             "last_commit": "2023-05-31T07:25:03Z",
             "owner": "ShenoyVaradaraya",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293595969,
             "language": null,
             "last_commit": "2021-02-06T12:50:35Z",
             "owner": "Sid1057",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294052452,
             "language": "CMake",
             "last_commit": "2023-09-10T16:40:24Z",
             "owner": "PigeonSensei",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345016453,
             "language": null,
             "last_commit": "2020-12-14T20:15:42Z",
             "owner": "KamalanathanN",
@@ -749,7 +802,7 @@
       "title": "Courses"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -758,11 +811,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14435841,
             "language": "TeX",
             "last_commit": "2026-02-11T23:38:22Z",
             "owner": "Introduction-to-Autonomous-Robots",
             "repo": "Introduction-to-Autonomous-Robots",
-            "stars": 3309
+            "stars": 3407
           }
         },
         {
@@ -772,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89142087,
             "language": "TeX",
             "last_commit": "2025-07-07T03:07:24Z",
             "owner": "gaoxiang12",
@@ -786,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436149041,
             "language": "C++",
             "last_commit": "2026-03-26T18:49:25Z",
             "owner": "fmrico",
@@ -800,18 +856,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344303476,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T04:55:30Z",
+            "last_commit": "2026-08-18T23:12:39Z",
             "owner": "petercorke",
             "repo": "RVC3-python",
-            "stars": 763
+            "stars": 764
           }
         }
       ],
       "title": "Books"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -820,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69775530,
             "language": "Jupyter Notebook",
             "last_commit": "2021-11-25T10:41:52Z",
             "owner": "udacity",
@@ -834,11 +892,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22180681,
             "language": null,
             "last_commit": "2025-06-03T16:01:14Z",
             "owner": "nasa",
             "repo": "NASA-3D-Resources",
-            "stars": 3747
+            "stars": 3750
           }
         },
         {
@@ -848,11 +907,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133256832,
             "language": null,
             "last_commit": "2024-12-13T04:29:23Z",
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1941
+            "stars": 1942
           }
         },
         {
@@ -862,11 +922,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133256832,
             "language": null,
             "last_commit": "2024-12-13T04:29:23Z",
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1941
+            "stars": 1942
           }
         },
         {
@@ -876,11 +937,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255347464,
             "language": null,
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1322
+            "stars": 1323
           }
         },
         {
@@ -890,11 +952,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258080505,
             "language": "HTML",
             "last_commit": "2024-07-14T04:45:37Z",
             "owner": "osrf",
             "repo": "gazebo_models",
-            "stars": 1300
+            "stars": 1303
           }
         },
         {
@@ -904,11 +967,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421530188,
             "language": "Python",
             "last_commit": "2024-09-21T11:15:13Z",
             "owner": "apple",
             "repo": "ARKitScenes",
-            "stars": 943
+            "stars": 944
           }
         },
         {
@@ -918,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261510252,
             "language": "C++",
             "last_commit": "2020-10-19T14:04:23Z",
             "owner": "ChaoqinRobotics",
@@ -932,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284722945,
             "language": "GLSL",
             "last_commit": "2023-05-29T09:50:45Z",
             "owner": "leonhartyao",
@@ -946,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437542454,
             "language": null,
             "last_commit": "2023-05-04T09:49:08Z",
             "owner": "PointsCoder",
@@ -960,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293960101,
             "language": "Python",
             "last_commit": "2024-03-09T10:30:02Z",
             "owner": "bdd100k",
@@ -974,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130785763,
             "language": null,
             "last_commit": "2021-08-26T19:34:00Z",
             "owner": "mint-lab",
@@ -988,11 +1057,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665385345,
             "language": null,
             "last_commit": "2025-05-12T07:14:03Z",
             "owner": "minwoo0611",
             "repo": "Awesome-3D-LiDAR-Datasets",
-            "stars": 454
+            "stars": 455
           }
         },
         {
@@ -1002,11 +1072,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306217645,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-23T17:49:25Z",
             "owner": "unmannedlab",
             "repo": "RELLIS-3D",
-            "stars": 449
+            "stars": 450
           }
         },
         {
@@ -1016,11 +1087,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306217645,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-23T17:49:25Z",
             "owner": "unmannedlab",
             "repo": "RELLIS-3D",
-            "stars": 449
+            "stars": 450
           }
         },
         {
@@ -1030,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 667662690,
             "language": "Python",
             "last_commit": "2026-01-13T05:45:29Z",
             "owner": "OpenDriveLab",
@@ -1044,11 +1117,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49603196,
             "language": "C++",
             "last_commit": "2022-08-15T01:14:00Z",
             "owner": "kam3k",
             "repo": "laser_line_extraction",
-            "stars": 433
+            "stars": 432
           }
         },
         {
@@ -1058,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465837586,
             "language": "Python",
             "last_commit": "2026-02-19T05:33:57Z",
             "owner": "argoverse",
@@ -1072,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452124276,
             "language": null,
             "last_commit": "2022-07-31T01:25:27Z",
             "owner": "alelopes",
@@ -1086,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275208218,
             "language": "CMake",
             "last_commit": "2023-11-29T17:49:06Z",
             "owner": "clearpathrobotics",
@@ -1100,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517667802,
             "language": "Python",
             "last_commit": "2026-08-08T07:57:46Z",
             "owner": "sjtuyinjie",
@@ -1114,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470332316,
             "language": null,
             "last_commit": "2025-05-14T22:57:47Z",
             "owner": "NeBula-Autonomy",
@@ -1128,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491653788,
             "language": "Python",
             "last_commit": "2024-06-20T07:04:52Z",
             "owner": "MetaSLAM",
@@ -1142,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429273396,
             "language": "Shell",
             "last_commit": "2023-02-11T04:21:07Z",
             "owner": "LiDAR-Perception",
@@ -1156,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341879314,
             "language": null,
             "last_commit": "2021-02-24T13:09:44Z",
             "owner": "under-the-radar",
@@ -1170,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236541425,
             "language": "Python",
             "last_commit": "2025-01-09T23:10:58Z",
             "owner": "utiasSTARS",
@@ -1184,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595868225,
             "language": "Shell",
             "last_commit": "2025-04-16T18:39:00Z",
             "owner": "jrcuaranv",
@@ -1195,7 +1279,7 @@
       "title": "Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1204,11 +1288,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-18T03:20:31Z",
+            "last_commit": "2026-08-19T03:21:13Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167404
+            "stars": 167529
           }
         },
         {
@@ -1218,11 +1303,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-18T09:13:40Z",
+            "last_commit": "2026-08-19T05:34:24Z",
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63445
+            "stars": 63450
           }
         },
         {
@@ -1232,11 +1318,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83844720,
             "language": "Python",
             "last_commit": "2026-06-25T11:12:50Z",
             "owner": "ageitgey",
             "repo": "face_recognition",
-            "stars": 56662
+            "stars": 56668
           }
         },
         {
@@ -1246,11 +1333,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618058471,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54696
+            "stars": 54708
           }
         },
         {
@@ -1260,11 +1348,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54376220,
             "language": "Python",
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30316
+            "stars": 30323
           }
         },
         {
@@ -1274,11 +1363,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96246170,
             "language": "C++",
             "last_commit": "2026-04-16T12:24:54Z",
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26796
+            "stars": 26797
           }
         },
         {
@@ -1288,11 +1378,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81887991,
             "language": "C++",
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18406
+            "stars": 18408
           }
         },
         {
@@ -1302,11 +1393,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74421371,
             "language": "JavaScript",
             "last_commit": "2026-08-17T17:03:00Z",
             "owner": "ryanburgess",
             "repo": "engineer-manager",
-            "stars": 10723
+            "stars": 10724
           }
         },
         {
@@ -1316,11 +1408,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167828165,
             "language": "C++",
-            "last_commit": "2026-08-18T07:15:37Z",
+            "last_commit": "2026-08-18T17:57:28Z",
             "owner": "ArthurSonzogni",
             "repo": "FTXUI",
-            "stars": 10565
+            "stars": 10570
           }
         },
         {
@@ -1330,11 +1423,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50255244,
             "language": "C++",
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10212
+            "stars": 10213
           }
         },
         {
@@ -1344,11 +1438,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276269866,
             "language": "C++",
             "last_commit": "2025-02-14T10:05:51Z",
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4887
+            "stars": 4889
           }
         },
         {
@@ -1358,11 +1453,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276269866,
             "language": "C++",
             "last_commit": "2025-02-14T10:05:51Z",
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4887
+            "stars": 4889
           }
         },
         {
@@ -1372,11 +1468,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280084324,
             "language": "Python",
             "last_commit": "2025-12-10T10:00:19Z",
             "owner": "cvg",
             "repo": "Hierarchical-Localization",
-            "stars": 4180
+            "stars": 4183
           }
         },
         {
@@ -1386,25 +1483,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86362856,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T06:34:09Z",
+            "last_commit": "2026-08-19T12:21:15Z",
             "owner": "borglab",
             "repo": "gtsam",
-            "stars": 3637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fast-Planner",
-          "description": "It aims to enable quadrotor fast flight in complex unknown environments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-10-24T13:12:43Z",
-            "owner": "HKUST-Aerial-Robotics",
-            "repo": "Fast-Planner",
-            "stars": 3385
+            "stars": 3640
           }
         },
         {
@@ -1414,11 +1498,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33467565,
             "language": "C++",
             "last_commit": "2026-08-18T05:47:43Z",
             "owner": "petercorke",
             "repo": "robotics-toolbox-python",
-            "stars": 3384
+            "stars": 3397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast-Planner",
+          "description": "It aims to enable quadrotor fast flight in complex unknown environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172918879,
+            "language": "C++",
+            "last_commit": "2024-10-24T13:12:43Z",
+            "owner": "HKUST-Aerial-Robotics",
+            "repo": "Fast-Planner",
+            "stars": 3386
           }
         },
         {
@@ -1428,11 +1528,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225547305,
             "language": "C++",
             "last_commit": "2026-04-03T05:10:39Z",
             "owner": "amov-lab",
             "repo": "Prometheus",
-            "stars": 3231
+            "stars": 3232
           }
         },
         {
@@ -1442,11 +1543,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163154136,
             "language": null,
             "last_commit": "2024-08-16T02:29:01Z",
             "owner": "amusi",
             "repo": "awesome-lane-detection",
-            "stars": 3063
+            "stars": 3062
           }
         },
         {
@@ -1456,11 +1558,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166249121,
             "language": "C++",
             "last_commit": "2025-11-30T08:23:17Z",
             "owner": "rpng",
             "repo": "open_vins",
-            "stars": 3046
+            "stars": 3049
           }
         },
         {
@@ -1470,11 +1573,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56404753,
             "language": "Python",
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3017
+            "stars": 3018
           }
         },
         {
@@ -1484,11 +1588,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112253403,
             "language": "C++",
             "last_commit": "2024-05-31T08:49:33Z",
             "owner": "ethz-asl",
             "repo": "maplab",
-            "stars": 2865
+            "stars": 2866
           }
         },
         {
@@ -1498,6 +1603,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148293790,
             "language": null,
             "last_commit": "2021-10-21T06:16:45Z",
             "owner": "YiChenCityU",
@@ -1512,6 +1618,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278173871,
             "language": "Python",
             "last_commit": "2024-01-13T06:05:01Z",
             "owner": "zhm-real",
@@ -1526,11 +1633,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262742958,
             "language": "C++",
             "last_commit": "2025-03-08T09:23:46Z",
             "owner": "ZJU-FAST-Lab",
             "repo": "ego-planner",
-            "stars": 2606
+            "stars": 2607
           }
         },
         {
@@ -1540,6 +1648,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133582946,
             "language": "C++",
             "last_commit": "2026-08-17T19:21:31Z",
             "owner": "SteveMacenski",
@@ -1554,11 +1663,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154626012,
             "language": "Python",
             "last_commit": "2026-07-11T23:47:48Z",
             "owner": "ARISE-Initiative",
             "repo": "robosuite",
-            "stars": 2559
+            "stars": 2560
           }
         },
         {
@@ -1568,11 +1678,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63038123,
             "language": null,
             "last_commit": "2022-05-10T17:57:19Z",
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2428
+            "stars": 2429
           }
         },
         {
@@ -1582,6 +1693,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160963776,
             "language": "JavaScript",
             "last_commit": "2022-12-17T00:27:21Z",
             "owner": "cruise-automation",
@@ -1596,6 +1708,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115905660,
             "language": "C++",
             "last_commit": "2024-07-16T01:39:14Z",
             "owner": "koide3",
@@ -1610,11 +1723,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111565012,
             "language": "C++",
             "last_commit": "2026-05-20T05:55:33Z",
             "owner": "nmwsharp",
             "repo": "polyscope",
-            "stars": 2195
+            "stars": 2196
           }
         },
         {
@@ -1624,6 +1738,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13708826,
             "language": "C++",
             "last_commit": "2026-08-11T22:19:27Z",
             "owner": "MRPT",
@@ -1638,11 +1753,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208689257,
             "language": null,
             "last_commit": "2021-01-30T22:12:14Z",
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2116
+            "stars": 2118
           }
         },
         {
@@ -1652,11 +1768,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64340188,
             "language": "C++",
             "last_commit": "2026-07-20T10:18:45Z",
             "owner": "moveit",
             "repo": "moveit",
-            "stars": 2076
+            "stars": 2077
           }
         },
         {
@@ -1666,6 +1783,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112651426,
             "language": "C++",
             "last_commit": "2023-11-22T09:11:28Z",
             "owner": "KumarRobotics",
@@ -1680,6 +1798,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19574322,
             "language": "C++",
             "last_commit": "2024-11-04T10:55:13Z",
             "owner": "ANYbotics",
@@ -1694,6 +1813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 461270746,
             "language": null,
             "last_commit": "2025-05-31T02:13:33Z",
             "owner": "coderonion",
@@ -1708,6 +1828,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28813433,
             "language": "C++",
             "last_commit": "2022-01-22T10:50:36Z",
             "owner": "leggedrobotics",
@@ -1722,11 +1843,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478093237,
             "language": null,
             "last_commit": "2026-08-04T09:53:46Z",
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1636
+            "stars": 1637
           }
         },
         {
@@ -1736,6 +1858,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31615024,
             "language": "C++",
             "last_commit": "2022-09-18T00:48:53Z",
             "owner": "raulmur",
@@ -1750,11 +1873,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385667483,
             "language": "C++",
             "last_commit": "2024-01-19T05:56:46Z",
             "owner": "uzh-rpg",
             "repo": "rpg_svo_pro_open",
-            "stars": 1599
+            "stars": 1601
           }
         },
         {
@@ -1764,6 +1888,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474907133,
             "language": "Python",
             "last_commit": "2023-03-10T19:06:09Z",
             "owner": "cvg",
@@ -1778,6 +1903,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310478206,
             "language": "Python",
             "last_commit": "2023-09-02T16:35:54Z",
             "owner": "gradslam",
@@ -1792,6 +1918,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165217915,
             "language": "Python",
             "last_commit": "2023-01-02T20:27:09Z",
             "owner": "j96w",
@@ -1806,6 +1933,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179233090,
             "language": "JavaScript",
             "last_commit": "2025-12-27T20:58:16Z",
             "owner": "dheera",
@@ -1820,6 +1948,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329913731,
             "language": "Python",
             "last_commit": "2026-04-20T08:44:50Z",
             "owner": "mangdangroboticsclub",
@@ -1834,6 +1963,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90426514,
             "language": "Python",
             "last_commit": "2025-12-29T03:18:51Z",
             "owner": "dheera",
@@ -1848,6 +1978,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260099248,
             "language": "C++",
             "last_commit": "2024-07-30T19:32:24Z",
             "owner": "wh200720041",
@@ -1862,11 +1993,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 775939573,
             "language": "C++",
             "last_commit": "2026-08-12T02:20:27Z",
             "owner": "koide3",
             "repo": "small_gicp",
-            "stars": 1009
+            "stars": 1012
           }
         },
         {
@@ -1876,6 +2008,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406402747,
             "language": "C++",
             "last_commit": "2026-05-25T20:52:23Z",
             "owner": "MichaelFYang",
@@ -1890,6 +2023,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5474822,
             "language": "C++",
             "last_commit": "2026-07-31T18:48:33Z",
             "owner": "ros",
@@ -1904,6 +2038,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59735789,
             "language": "C++",
             "last_commit": "2022-08-17T06:26:52Z",
             "owner": "gaoxiang12",
@@ -1918,6 +2053,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304324384,
             "language": "C++",
             "last_commit": "2024-08-19T15:51:25Z",
             "owner": "hku-mars",
@@ -1932,6 +2068,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416333335,
             "language": "C++",
             "last_commit": "2026-07-17T09:20:57Z",
             "owner": "facontidavide",
@@ -1946,6 +2083,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501080115,
             "language": "C++",
             "last_commit": "2026-08-18T08:09:12Z",
             "owner": "Fields2Cover",
@@ -1960,6 +2098,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478900646,
             "language": "C++",
             "last_commit": "2025-12-15T10:51:10Z",
             "owner": "JokerJohn",
@@ -1974,11 +2113,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275485565,
             "language": "C++",
             "last_commit": "2026-08-10T21:46:17Z",
             "owner": "ntnu-arl",
             "repo": "gbplanner_ros",
-            "stars": 842
+            "stars": 843
           }
         },
         {
@@ -1988,6 +2128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313684224,
             "language": "C++",
             "last_commit": "2026-04-18T16:07:08Z",
             "owner": "KumarRobotics",
@@ -2002,6 +2143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620639534,
             "language": "C++",
             "last_commit": "2025-01-01T12:10:34Z",
             "owner": "w111liang222",
@@ -2016,11 +2158,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160449580,
             "language": "C++",
             "last_commit": "2020-10-05T03:06:45Z",
             "owner": "ivipsourcecode",
             "repo": "DS-SLAM",
-            "stars": 751
+            "stars": 752
           }
         },
         {
@@ -2030,6 +2173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293755225,
             "language": "Python",
             "last_commit": "2026-05-11T06:16:19Z",
             "owner": "opendr-eu",
@@ -2044,6 +2188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32235471,
             "language": "C++",
             "last_commit": "2021-02-02T14:51:30Z",
             "owner": "spencer-project",
@@ -2058,6 +2203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19394222,
             "language": "Matlab",
             "last_commit": "2018-11-10T23:36:18Z",
             "owner": "AtsushiSakai",
@@ -2072,11 +2218,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578218054,
             "language": "C++",
             "last_commit": "2025-03-09T21:17:07Z",
             "owner": "ethz-asl",
             "repo": "dynablox",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -2086,6 +2233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319263244,
             "language": "Jupyter Notebook",
             "last_commit": "2023-12-26T07:52:56Z",
             "owner": "cvg",
@@ -2100,11 +2248,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16987486,
             "language": "C++",
             "last_commit": "2023-08-07T16:07:43Z",
             "owner": "srl-freiburg",
             "repo": "pedsim_ros",
-            "stars": 588
+            "stars": 587
           }
         },
         {
@@ -2114,6 +2263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365419584,
             "language": "Python",
             "last_commit": "2023-12-28T21:58:41Z",
             "owner": "hailanyi",
@@ -2128,6 +2278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347013186,
             "language": "Python",
             "last_commit": "2024-05-16T10:35:59Z",
             "owner": "SysCV",
@@ -2142,6 +2293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213360384,
             "language": "Python",
             "last_commit": "2024-11-20T20:13:02Z",
             "owner": "TiagoCortinhal",
@@ -2156,6 +2308,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490574117,
             "language": "Python",
             "last_commit": "2023-04-18T14:58:49Z",
             "owner": "JOP-Lee",
@@ -2170,6 +2323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196824064,
             "language": "C++",
             "last_commit": "2023-03-25T03:34:19Z",
             "owner": "facontidavide",
@@ -2184,6 +2338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271680039,
             "language": "C++",
             "last_commit": "2025-06-27T11:35:36Z",
             "owner": "UnknownFreeOccupied",
@@ -2198,6 +2353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366655042,
             "language": null,
             "last_commit": "2024-01-25T00:12:59Z",
             "owner": "kxhit",
@@ -2212,11 +2368,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210993757,
             "language": "Python",
             "last_commit": "2024-01-26T08:40:16Z",
             "owner": "Healthcare-Robotics",
             "repo": "assistive-gym",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -2226,6 +2383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267967274,
             "language": "C++",
             "last_commit": "2021-07-27T12:06:52Z",
             "owner": "yanyan-li",
@@ -2240,6 +2398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470283418,
             "language": "C++",
             "last_commit": "2023-04-29T15:57:05Z",
             "owner": "NeBula-Autonomy",
@@ -2254,6 +2413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602035460,
             "language": "Python",
             "last_commit": "2025-12-06T11:05:24Z",
             "owner": "worldbench",
@@ -2268,6 +2428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 339994586,
             "language": "C++",
             "last_commit": "2024-03-24T07:48:36Z",
             "owner": "wh200720041",
@@ -2282,11 +2443,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275485700,
             "language": "C++",
             "last_commit": "2023-04-19T14:51:49Z",
             "owner": "ntnu-arl",
             "repo": "mbplanner_ros",
-            "stars": 361
+            "stars": 360
           }
         },
         {
@@ -2296,6 +2458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374577863,
             "language": "C++",
             "last_commit": "2026-07-06T10:50:51Z",
             "owner": "jkk-research",
@@ -2310,6 +2473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229207138,
             "language": "C++",
             "last_commit": "2025-06-28T18:20:57Z",
             "owner": "ArghyaChatterjee",
@@ -2324,6 +2488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229207138,
             "language": "C++",
             "last_commit": "2025-06-28T18:20:57Z",
             "owner": "ArghyaChatterjee",
@@ -2338,6 +2503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117097478,
             "language": "Python",
             "last_commit": "2022-11-21T22:20:15Z",
             "owner": "PRBonn",
@@ -2352,6 +2518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 503256151,
             "language": "Python",
             "last_commit": "2023-10-29T21:43:50Z",
             "owner": "neu-vi",
@@ -2366,6 +2533,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 557198149,
             "language": "C++",
             "last_commit": "2023-08-07T07:19:56Z",
             "owner": "TUMFTM",
@@ -2380,11 +2548,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184507826,
             "language": "C++",
-            "last_commit": "2026-08-18T03:17:30Z",
+            "last_commit": "2026-08-18T23:24:09Z",
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -2394,6 +2563,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190980239,
             "language": "C++",
             "last_commit": "2026-06-16T16:26:53Z",
             "owner": "Kitware",
@@ -2408,6 +2578,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17525188,
             "language": "C++",
             "last_commit": "2024-03-20T04:18:46Z",
             "owner": "paulbovbel",
@@ -2422,6 +2593,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662259582,
             "language": "C++",
             "last_commit": "2025-09-13T14:10:54Z",
             "owner": "luigifreda",
@@ -2436,6 +2608,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157005049,
             "language": "Python",
             "last_commit": "2022-04-05T21:31:25Z",
             "owner": "araffin",
@@ -2450,6 +2623,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433197009,
             "language": "C++",
             "last_commit": "2024-10-04T16:52:09Z",
             "owner": "RobustFieldAutonomyLab",
@@ -2464,6 +2638,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433197009,
             "language": "C++",
             "last_commit": "2024-10-04T16:52:09Z",
             "owner": "RobustFieldAutonomyLab",
@@ -2478,6 +2653,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30819640,
             "language": "C",
             "last_commit": "2025-11-27T12:02:10Z",
             "owner": "UbiquityRobotics",
@@ -2492,6 +2668,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334542060,
             "language": "Python",
             "last_commit": "2024-07-06T08:07:48Z",
             "owner": "Twisted-Fields",
@@ -2501,11 +2678,27 @@
         },
         {
           "node_type": "item",
+          "title": "Vizanti - Web Visualizer & Mission Planner for ROS",
+          "description": "A mission planner and visualizer for controlling outdoor ROS robots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633043308,
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T16:59:09Z",
+            "owner": "MoffKalast",
+            "repo": "vizanti",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Bag of Visual Words",
           "description": "Bag of Visual Words from Olga Vysotska",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129683527,
             "language": "Jupyter Notebook",
             "last_commit": "2023-12-11T15:01:12Z",
             "owner": "ovysotska",
@@ -2520,24 +2713,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129683527,
             "language": "Jupyter Notebook",
             "last_commit": "2023-12-11T15:01:12Z",
             "owner": "ovysotska",
             "repo": "in_simple_english",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vizanti - Web Visualizer & Mission Planner for ROS",
-          "description": "A mission planner and visualizer for controlling outdoor ROS robots",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T16:59:09Z",
-            "owner": "MoffKalast",
-            "repo": "vizanti",
             "stars": 262
           }
         },
@@ -2548,6 +2728,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267851741,
             "language": "Python",
             "last_commit": "2023-03-24T22:46:24Z",
             "owner": "uzh-rpg",
@@ -2562,6 +2743,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539307433,
             "language": "Dockerfile",
             "last_commit": "2024-10-09T14:35:14Z",
             "owner": "osrf",
@@ -2576,6 +2758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 399864768,
             "language": "Python",
             "last_commit": "2024-03-22T12:54:03Z",
             "owner": "HaiderAbasi",
@@ -2590,6 +2773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111673417,
             "language": "Python",
             "last_commit": "2025-06-09T09:18:48Z",
             "owner": "RobotLabLTH",
@@ -2604,6 +2788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404396207,
             "language": "Python",
             "last_commit": "2024-03-24T07:48:06Z",
             "owner": "wh200720041",
@@ -2618,6 +2803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507169528,
             "language": "Python",
             "last_commit": "2026-07-10T10:11:48Z",
             "owner": "iwatake2222",
@@ -2632,6 +2818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371112077,
             "language": "C++",
             "last_commit": "2023-08-31T11:34:02Z",
             "owner": "uzh-rpg",
@@ -2646,6 +2833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398259406,
             "language": "Python",
             "last_commit": "2022-07-15T18:01:42Z",
             "owner": "jhan15",
@@ -2660,6 +2848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229026217,
             "language": "C++",
             "last_commit": "2026-04-21T21:01:16Z",
             "owner": "AdaCompNUS",
@@ -2674,6 +2863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692038697,
             "language": "CMake",
             "last_commit": "2024-04-15T15:50:07Z",
             "owner": "robot-learning-freiburg",
@@ -2688,6 +2878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281046848,
             "language": "Python",
             "last_commit": "2021-04-07T08:49:39Z",
             "owner": "uzh-rpg",
@@ -2702,6 +2893,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287463870,
             "language": "C++",
             "last_commit": "2021-03-20T06:58:23Z",
             "owner": "HyHuang1995",
@@ -2716,6 +2908,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295908771,
             "language": "C++",
             "last_commit": "2025-04-01T05:44:50Z",
             "owner": "HKPolyU-UAV",
@@ -2730,6 +2923,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96536731,
             "language": "C++",
             "last_commit": "2019-02-02T01:19:41Z",
             "owner": "Alkaid-Benetnash",
@@ -2744,6 +2938,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186569388,
             "language": "C++",
             "last_commit": "2019-05-14T10:38:17Z",
             "owner": "alexandrx",
@@ -2758,6 +2953,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52369030,
             "language": "C++",
             "last_commit": "2017-03-01T17:06:02Z",
             "owner": "ori-drs",
@@ -2772,6 +2968,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286490131,
             "language": null,
             "last_commit": "2020-08-31T06:53:26Z",
             "owner": "Tossy0423",
@@ -2786,6 +2983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462304814,
             "language": "C++",
             "last_commit": "2026-04-23T20:41:09Z",
             "owner": "mich1342",
@@ -2800,6 +2998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194409236,
             "language": "Python",
             "last_commit": "2020-04-13T10:15:37Z",
             "owner": "verlab",
@@ -2814,6 +3013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142293073,
             "language": "C++",
             "last_commit": "2024-05-09T04:16:12Z",
             "owner": "GMahmoud",
@@ -2828,6 +3028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197566886,
             "language": "C++",
             "last_commit": "2024-09-02T05:25:05Z",
             "owner": "IntelligentRoboticsLabs",
@@ -2842,6 +3043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498933067,
             "language": "C#",
             "last_commit": "2023-04-10T22:06:10Z",
             "owner": "OSSDC",
@@ -2856,6 +3058,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409890700,
             "language": "C++",
             "last_commit": "2023-12-04T14:55:16Z",
             "owner": "gisbi-kim",
@@ -2870,6 +3073,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331511597,
             "language": "C++",
             "last_commit": "2021-01-21T07:53:12Z",
             "owner": "alexandrx",
@@ -2884,6 +3088,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276279762,
             "language": "C++",
             "last_commit": "2024-09-02T15:11:18Z",
             "owner": "virgolinosoares",
@@ -2898,6 +3103,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279442939,
             "language": "C++",
             "last_commit": "2021-11-11T19:39:32Z",
             "owner": "DanielaEsparza",
@@ -2912,6 +3118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472124115,
             "language": "Python",
             "last_commit": "2022-10-21T19:05:22Z",
             "owner": "aharley",
@@ -2926,6 +3133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290744555,
             "language": "Python",
             "last_commit": "2023-03-01T19:58:10Z",
             "owner": "mstoelzle",
@@ -2940,6 +3148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477225612,
             "language": "C++",
             "last_commit": "2022-05-31T11:06:35Z",
             "owner": "smitdumore",
@@ -2954,6 +3163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415456744,
             "language": "Python",
             "last_commit": "2022-01-02T00:16:00Z",
             "owner": "mayataka",
@@ -2968,6 +3178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 399192510,
             "language": "Dockerfile",
             "last_commit": "2023-07-07T13:06:13Z",
             "owner": "HyeonJaeGil",
@@ -2982,6 +3193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292699397,
             "language": "Python",
             "last_commit": "2020-11-21T07:43:53Z",
             "owner": "UCR-Robotics",
@@ -2996,6 +3208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326716513,
             "language": "CMake",
             "last_commit": "2022-11-15T09:04:55Z",
             "owner": "KamalanathanN",
@@ -3010,6 +3223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486145535,
             "language": "C++",
             "last_commit": "2022-09-03T20:47:31Z",
             "owner": "smitdumore",
@@ -3024,6 +3238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365994927,
             "language": "C++",
             "last_commit": "2022-03-23T23:33:18Z",
             "owner": "CLOBOT-Co-Ltd",
@@ -3038,6 +3253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208099003,
             "language": "C#",
             "last_commit": "2021-12-23T08:32:43Z",
             "owner": "DavidFernandezChaves",
@@ -3052,6 +3268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 955717034,
             "language": null,
             "last_commit": "2025-03-27T04:46:35Z",
             "owner": "PengYu-Team",
@@ -3063,7 +3280,7 @@
       "title": "Softwares and Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3072,6 +3289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126627544,
             "language": "TeX",
             "last_commit": "2026-07-14T12:54:42Z",
             "owner": "vmayoral",
@@ -3086,6 +3304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18336920,
             "language": "TeX",
             "last_commit": "2026-06-15T18:24:18Z",
             "owner": "schnorr",
@@ -3100,6 +3319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638170357,
             "language": null,
             "last_commit": "2026-03-16T10:35:23Z",
             "owner": "ros-wg-delib",
@@ -3114,6 +3334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323346513,
             "language": null,
             "last_commit": "2026-03-23T13:54:53Z",
             "owner": "mateus-amarante",
@@ -3128,6 +3349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266889992,
             "language": null,
             "last_commit": "2020-05-30T16:24:13Z",
             "owner": "chapulina",
@@ -3140,8 +3362,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:09:36.523Z",
+    "last_updated": "2026-08-19T12:41:56.543Z",
     "original_repository": "mathiasmantelli/awesome-mobile-robotics",
+    "original_repository_id": 274975229,
     "original_repository_sha": "03a0871296652164fe7870af55a38c3d55bf7f4b",
     "enhanced_repository": "enhansome/enhansome-mobile-robotics",
     "enhanced_repository_description": null,

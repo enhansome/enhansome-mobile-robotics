@@ -15,7 +15,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83167
+            "stars": 83168
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83167
+            "stars": 83168
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2024-05-16T18:51:33Z",
             "owner": "dair-ai",
             "repo": "ML-Course-Notes",
-            "stars": 6645
+            "stars": 6646
           }
         },
         {
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 445181281,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T03:15:08Z",
+            "last_commit": "2026-08-24T14:15:20Z",
             "owner": "gtbook",
             "repo": "robotics",
             "stars": 771
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-08-24T03:24:40Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167851
+            "stars": 167847
           }
         },
         {
@@ -1305,7 +1305,7 @@
             "archived": false,
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-24T09:18:41Z",
+            "last_commit": "2026-08-24T14:15:32Z",
             "owner": "commaai",
             "repo": "openpilot",
             "stars": 63481
@@ -1353,7 +1353,7 @@
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30352
+            "stars": 30355
           }
         },
         {
@@ -1488,7 +1488,7 @@
             "last_commit": "2026-08-24T04:18:41Z",
             "owner": "borglab",
             "repo": "gtsam",
-            "stars": 3649
+            "stars": 3650
           }
         },
         {
@@ -3362,7 +3362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:14:56.105Z",
+    "last_updated": "2026-08-24T14:19:22.166Z",
     "original_repository": "mathiasmantelli/awesome-mobile-robotics",
     "original_repository_id": 274975229,
     "original_repository_sha": "03a0871296652164fe7870af55a38c3d55bf7f4b",

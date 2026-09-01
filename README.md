@@ -1,6 +1,6 @@
 # Awesome Mobile Robotics with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,667 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,972 | 🐛 105 | 📅 2026-08-21
 
 My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: <mathiasfassini@gmail.com>
 
@@ -21,28 +21,28 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ## Courses
 
-* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) ⭐ 83,341 | 🐛 2 | 📅 2026-08-30 | Developer-Y
-* [List of Computer Science courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,341 | 🐛 2 | 📅 2026-08-30 | List of Computer Science courses with video lectures
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,527 | 🐛 92 | 📅 2024-05-17 | Jia-Bin Huang
-* [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) ⭐ 23,098 | 🐛 220 | 🌐 Jupyter Notebook | 📅 2026-08-30 | Satya Mallick
-* [Machine Learning Engineering](https://github.com/stas00/ml-engineering) ⭐ 18,859 | 🐛 4 | 🌐 Python | 📅 2026-08-31 | Machine Learning Engineering Open Book
-* [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) ⭐ 16,076 | 🐛 5 | 🌐 HTML | 📅 2026-04-19 | Modern C++ Programming Course (C++11/14/17/20)
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) ⭐ 83,364 | 🐛 4 | 📅 2026-08-30 | Developer-Y
+* [List of Computer Science courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,364 | 🐛 4 | 📅 2026-08-30 | List of Computer Science courses with video lectures
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,532 | 🐛 92 | 📅 2024-05-17 | Jia-Bin Huang
+* [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) ⭐ 23,105 | 🐛 220 | 🌐 Jupyter Notebook | 📅 2026-08-30 | Satya Mallick
+* [Machine Learning Engineering](https://github.com/stas00/ml-engineering) ⭐ 18,871 | 🐛 4 | 🌐 Python | 📅 2026-08-31 | Machine Learning Engineering Open Book
+* [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) ⭐ 16,079 | 🐛 5 | 🌐 HTML | 📅 2026-04-19 | Modern C++ Programming Course (C++11/14/17/20)
 * [Data Structure & Algorithms 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words) ⭐ 11,408 | 🐛 13 | 📅 2026-07-14 | Girliemac
 * [Algorithms / Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms) ⭐ 11,408 | 🐛 13 | 📅 2026-07-14 | A Picture is worth a 1000 words
-* [Roboflow Notebooks](https://github.com/roboflow/notebooks) ⭐ 9,634 | 🐛 89 | 🌐 Jupyter Notebook | 📅 2026-08-14 | Jupyter Notebooks with Computer Vision tutorials
-* [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,810 | 🐛 39 | 📅 2024-08-06 | CPP Best Practices
-* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,810 | 🐛 39 | 📅 2024-08-06 | Collaborative Collection of C++ Best Practices
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) ⭐ 6,995 | 🐛 38 | 📅 2024-09-22 | Huge awesome list for robotics by kiloreux
+* [Roboflow Notebooks](https://github.com/roboflow/notebooks) ⭐ 9,636 | 🐛 89 | 🌐 Jupyter Notebook | 📅 2026-08-14 | Jupyter Notebooks with Computer Vision tutorials
+* [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,812 | 🐛 39 | 📅 2024-08-06 | CPP Best Practices
+* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,812 | 🐛 39 | 📅 2024-08-06 | Collaborative Collection of C++ Best Practices
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) ⭐ 6,998 | 🐛 38 | 📅 2024-09-22 | Huge awesome list for robotics by kiloreux
 * [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes) ⭐ 6,653 | 🐛 5 | 📅 2024-05-16 | DAIR.AI
 * [Udacity's autonomous car](https://github.com/udacity/self-driving-car) ⚠️ Archived | The Udacity open source self-driving car project
-* [Start Machine Learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,299 | 🐛 4 | 📅 2026-01-23 | A complete guide to start and improve in ML, AI by Louis-François Bouchard
-* [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list#mesh-storage-processing) ⭐ 4,420 | 🐛 6 | 📅 2021-10-12 | OpenMVG
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,888 | 🐛 13 | 📅 2023-11-20 | About Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
+* [Start Machine Learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,298 | 🐛 4 | 📅 2026-01-23 | A complete guide to start and improve in ML, AI by Louis-François Bouchard
+* [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list#mesh-storage-processing) ⭐ 4,419 | 🐛 6 | 📅 2021-10-12 | OpenMVG
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,889 | 🐛 13 | 📅 2023-11-20 | About Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 * [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) ⭐ 3,558 | 🐛 20 | 🌐 C++ | 📅 2023-12-15 | Modern C++ Cheatsheet
 * [Google Interview Preparation](https://github.com/mgechev/google-interview-preparation-problems) ⭐ 3,168 | 🐛 2 | 🌐 JavaScript | 📅 2023-02-28 | Collection of problems and solutions of leetcode, geeksforgeeks challenges by mgechev
-* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,950 | 🐛 1 | 📅 2022-03-21 | University of Michigan
-* [Visual SLAM Roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,765 | 🐛 8 | 🌐 Astro | 📅 2026-07-19 | Roadmap to becoming a Visual-SLAM developer in 2022 by @changh95
-* [Autonomous Vehicle Control Beginners Guide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) ⭐ 1,649 | 🐛 8 | 🌐 Python | 📅 2026-07-26 | Beginner's guide to learning the basic way of thinking and representative algorithms for Autonomous Vehicle Control
+* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,955 | 🐛 1 | 📅 2022-03-21 | University of Michigan
+* [Visual SLAM Roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,766 | 🐛 8 | 🌐 Astro | 📅 2026-07-19 | Roadmap to becoming a Visual-SLAM developer in 2022 by @changh95
+* [Autonomous Vehicle Control Beginners Guide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) ⭐ 1,650 | 🐛 8 | 🌐 Python | 📅 2026-07-26 | Beginner's guide to learning the basic way of thinking and representative algorithms for Autonomous Vehicle Control
 * [C++ Optimizations Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) ⭐ 1,428 | 🐛 2 | 🌐 C++ | 📅 2023-12-21 | Tips and tricks to optimize your C++ code
 * [CPP Optimizations Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) ⭐ 1,428 | 🐛 2 | 🌐 C++ | 📅 2023-12-21 | Tips and tricks to optimize your C++ code by Davide Faconti
 * [Self Driving Cars](https://github.com/qiaoxu123/Self-Driving-Cars) ⭐ 1,111 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2020-04-04 | Coursera Open Courses from University of Toronto
@@ -137,9 +137,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ## Books
 
-* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) ⭐ 3,501 | 🐛 8 | 🌐 TeX | 📅 2026-02-11 **| Nikolaus Correll, Magellan Scientific**
+* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) ⭐ 3,502 | 🐛 8 | 🌐 TeX | 📅 2026-02-11 **| Nikolaus Correll, Magellan Scientific**
 * [SLAM Book](https://github.com/gaoxiang12/slambook-en) ⭐ 1,909 | 🐛 30 | 🌐 TeX | 📅 2025-07-07 **| Xiang Gao**
-* [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) ⭐ 819 | 🐛 6 | 🌐 C++ | 📅 2026-03-26 **| Francisco Martín Rico**
+* [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) ⭐ 820 | 🐛 6 | 🌐 C++ | 📅 2026-03-26 **| Francisco Martín Rico**
 * [Robotics, Vision & Control: 3rd edition in Python](https://github.com/petercorke/RVC3-python) ⭐ 768 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-26 **| Peter Corke, published by Springer-Nature 2023**
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
 * [Probabilistic Robotics](https://www.amazon.com.br/Probabilistic-Robotics-INTELLIGENT-ROBOTICS-AUTONOMOUS-ebook/dp/B00DJD9LXC/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91\&dchild=1\&keywords=probabilistic+robotics\&qid=1593131317\&sr=8-1) **| Sebastian Thrun, Wolfram Burgard, Dieter Fox**
@@ -168,13 +168,13 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [NASA 3D models](https://github.com/nasa/NASA-3D-Resources) ⭐ 3,765 | 🐛 4 | 📅 2025-06-03 **| 3D models, textures, and images from inside NASA**
 * [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,944 | 🐛 14 | 📅 2024-12-13 **| A collection of SLAM-related datasets**
 * [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,944 | 🐛 14 | 📅 2024-12-13 **| A curated list of awesome datasets for SLAM**
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,334 | 🐛 0 | 📅 2026-03-16 **| The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators**
-* [Gazebo models](https://github.com/osrf/gazebo_models) ⭐ 1,306 | 🐛 29 | 🌐 HTML | 📅 2024-07-14 **| This repository holds the Gazebo model database**
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,335 | 🐛 0 | 📅 2026-03-16 **| The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators**
+* [Gazebo models](https://github.com/osrf/gazebo_models) ⭐ 1,307 | 🐛 29 | 🌐 HTML | 📅 2024-07-14 **| This repository holds the Gazebo model database**
 * [ARKitScenes](https://github.com/apple/ARKitScenes) ⭐ 952 | 🐛 26 | 🌐 Python | 📅 2024-09-21 **| Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data**
-* [LINS -- LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) ⭐ 776 | 🐛 16 | 🌐 C++ | 📅 2020-10-19 **| A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter**
+* [LINS -- LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) ⭐ 777 | 🐛 16 | 🌐 C++ | 📅 2020-10-19 **| A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter**
 * [Gazebo Models and Worlds collection](https://github.com/chaolmu/gazebo_models_worlds_collection) ⭐ 625 | 🐛 3 | 🌐 GLSL | 📅 2023-05-29 **| This repository contains models and worlds files for Gazebo, which are collected from several public projects**
 * [3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) ⭐ 612 | 🐛 0 | 📅 2023-05-04 **| Papers on 3D Object Detection for Autonomous Driving**
-* [Berkeley DeepDrive (BDD)](https://github.com/bdd100k/bdd100k) ⭐ 569 | 🐛 46 | 🌐 Python | 📅 2024-03-09 **| Berkeley**
+* [Berkeley DeepDrive (BDD)](https://github.com/bdd100k/bdd100k) ⭐ 570 | 🐛 46 | 🌐 Python | 📅 2024-03-09 **| Berkeley**
 * [Awesome Robotics Dataset](https://github.com/mint-lab/awesome-robotics-datasets) ⭐ 516 | 🐛 3 | 📅 2021-08-26 **| A collection of useful datasets for robotics and computer vision**
 * [Awesome 3D LiDAR Datasets](https://github.com/minwoo0611/Awesome-3D-LiDAR-Datasets) ⭐ 456 | 🐛 2 | 📅 2025-05-12 **| A collection for public 3D LiDAR datasets**
 * [RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) ⭐ 452 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2022-11-23 **| A multimodal dataset collected in an off-road environment containing annotations for 13,556 LiDAR scans and 6,235 images**
@@ -221,61 +221,61 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ## Softwares and Libraries
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,339 | 🐛 70 | 🌐 HTML | 📅 2026-08-31 | ChatGPT prompt curation to use ChatGPT better
-* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,540 | 🐛 135 | 🌐 Python | 📅 2026-08-31 | Open source driver assistance system
-* [Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,700 | 🐛 832 | 🌐 Python | 📅 2026-06-25 | The world's simplest facial recognition API for Python and the command line
-* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 54,777 | 🐛 594 | 🌐 Jupyter Notebook | 📅 2024-09-18 | A new task, model, and dataset for image segmentation
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,419 | 🐛 56 | 🌐 Python | 📅 2026-08-24 | Python code collection of robotics algorithms, especially for autonomous navigation
-* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) ⭐ 26,815 | 🐛 1,046 | 🌐 C++ | 📅 2026-04-16 | A high-performance, flexible architecture that accelerates the development, testing, and deployment of Autonomous Vehicles
-* [AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,426 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 | A simulator for drones (and soon other vehicles) built on Unreal Engine
-* [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) ⭐ 10,726 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-17 | A list of engineering leadership resource links
-* [FTXUI](https://github.com/ArthurSonzogni/FTXUI) ⭐ 10,620 | 🐛 99 | 🌐 C++ | 📅 2026-08-23 | C++ Functional Terminal User Interface
-* [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,226 | 🐛 805 | 🌐 C++ | 📅 2024-05-15 | University of Zaragoza - Raúl Mur Artal
-* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) ⭐ 4,901 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 | A real-time lidar-inertial odometry package
-* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) ⭐ 4,901 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
-* [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) ⭐ 4,200 | 🐛 162 | 🌐 Python | 📅 2025-12-10 | A modular toolbox for state-of-the-art 6-DoF visual localization
-* [GTSAM](https://github.com/borglab/gtsam) ⭐ 3,661 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-31 | A C++ library that implements smoothing and mapping (SAM) in robotics and vision
-* [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) ⭐ 3,467 | 🐛 44 | 🌐 C++ | 📅 2026-08-29 | Robotics Toolbox for Python
-* [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) ⭐ 3,390 | 🐛 84 | 🌐 C++ | 📅 2024-10-24 | It aims to enable quadrotor fast flight in complex unknown environments
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,408 | 🐛 71 | 🌐 HTML | 📅 2026-09-01 | ChatGPT prompt curation to use ChatGPT better
+* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,549 | 🐛 133 | 🌐 Python | 📅 2026-09-01 | Open source driver assistance system
+* [Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,703 | 🐛 832 | 🌐 Python | 📅 2026-06-25 | The world's simplest facial recognition API for Python and the command line
+* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 54,780 | 🐛 594 | 🌐 Jupyter Notebook | 📅 2024-09-18 | A new task, model, and dataset for image segmentation
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,429 | 🐛 56 | 🌐 Python | 📅 2026-08-31 | Python code collection of robotics algorithms, especially for autonomous navigation
+* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) ⭐ 26,819 | 🐛 1,046 | 🌐 C++ | 📅 2026-04-16 | A high-performance, flexible architecture that accelerates the development, testing, and deployment of Autonomous Vehicles
+* [AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,428 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 | A simulator for drones (and soon other vehicles) built on Unreal Engine
+* [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) ⭐ 10,725 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-17 | A list of engineering leadership resource links
+* [FTXUI](https://github.com/ArthurSonzogni/FTXUI) ⭐ 10,624 | 🐛 99 | 🌐 C++ | 📅 2026-08-23 | C++ Functional Terminal User Interface
+* [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,230 | 🐛 805 | 🌐 C++ | 📅 2024-05-15 | University of Zaragoza - Raúl Mur Artal
+* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) ⭐ 4,903 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 | A real-time lidar-inertial odometry package
+* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) ⭐ 4,903 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
+* [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) ⭐ 4,201 | 🐛 162 | 🌐 Python | 📅 2025-12-10 | A modular toolbox for state-of-the-art 6-DoF visual localization
+* [GTSAM](https://github.com/borglab/gtsam) ⭐ 3,662 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-01 | A C++ library that implements smoothing and mapping (SAM) in robotics and vision
+* [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) ⭐ 3,471 | 🐛 44 | 🌐 C++ | 📅 2026-08-29 | Robotics Toolbox for Python
+* [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) ⭐ 3,391 | 🐛 84 | 🌐 C++ | 📅 2024-10-24 | It aims to enable quadrotor fast flight in complex unknown environments
 * [Prometheus](https://github.com/amov-lab/Prometheus/blob/master/README_EN.md) ⭐ 3,241 | 🐛 39 | 🌐 C++ | 📅 2026-04-03 | An open source autonomous drone software platform
-* [OpenVINS](https://github.com/rpng/open_vins) ⭐ 3,071 | 🐛 74 | 🌐 C++ | 📅 2025-11-30 | Computer vision code along with a state-of-the art filter-based visual-inertial estimator
+* [OpenVINS](https://github.com/rpng/open_vins) ⭐ 3,072 | 🐛 74 | 🌐 C++ | 📅 2025-11-30 | Computer vision code along with a state-of-the art filter-based visual-inertial estimator
 * [Lane Detection](https://github.com/amusi/awesome-lane-detection) ⭐ 3,062 | 🐛 18 | 📅 2024-08-16 | Papers, tutorials, and code about Lane Detection
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,030 | 🐛 17 | 🌐 Python | 📅 2026-08-25 | A curated list of robotics simulators and libraries
-* [maplab](https://github.com/ethz-asl/maplab) ⭐ 2,868 | 🐛 123 | 🌐 C++ | 📅 2024-05-31 | A Modular and Multi-Modal Mapping Framework
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,031 | 🐛 17 | 🌐 Python | 📅 2026-08-25 | A curated list of robotics simulators and libraries
+* [maplab](https://github.com/ethz-asl/maplab) ⭐ 2,869 | 🐛 123 | 🌐 C++ | 📅 2024-05-31 | A Modular and Multi-Modal Mapping Framework
 * [SLAM Research](https://github.com/YiChenCityU/Recent_SLAM_Research) ⭐ 2,742 | 🐛 5 | 📅 2021-10-21 | List of SLAM works since 2018
 * [Motion planners implementations](https://github.com/zhm-real/MotionPlanning) ⭐ 2,737 | 🐛 4 | 🌐 Python | 📅 2024-01-13 | This repository implemented some common motion planners used on autonomous vehicles
-* [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) ⭐ 2,628 | 🐛 40 | 🌐 C++ | 📅 2025-03-08 | This is a lightweight but robust quadrotor local planning framework
-* [SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox) ⭐ 2,612 | 🐛 48 | 🌐 C++ | 📅 2026-08-19 | A set of tools and capabilities for 2D SLAM
-* [robosuite](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,583 | 🐛 111 | 🌐 Python | 📅 2026-07-11 |  A simulation framework powered by the MuJoCo physics engine for robot learning
-* [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,429 | 🐛 3 | 📅 2022-05-10 | The list of vision-based SLAM / Visual Odometry open source projects, libraries, datasets, tools, and studies
+* [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) ⭐ 2,630 | 🐛 40 | 🌐 C++ | 📅 2025-03-08 | This is a lightweight but robust quadrotor local planning framework
+* [SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox) ⭐ 2,613 | 🐛 48 | 🌐 C++ | 📅 2026-08-19 | A set of tools and capabilities for 2D SLAM
+* [robosuite](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,584 | 🐛 112 | 🌐 Python | 📅 2026-07-11 |  A simulation framework powered by the MuJoCo physics engine for robot learning
+* [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,430 | 🐛 3 | 📅 2022-05-10 | The list of vision-based SLAM / Visual Odometry open source projects, libraries, datasets, tools, and studies
 * [Webviz](https://github.com/cruise-automation/webviz) ⭐ 2,336 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 | Web-based application for playback and visualization of ROS bag files
-* [hdl\_graph\_slam](https://github.com/koide3/hdl_graph_slam) ⭐ 2,332 | 🐛 126 | 🌐 C++ | 📅 2024-07-16 | An open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
-* [POLYSCOPE](https://github.com/nmwsharp/polyscope) ⭐ 2,199 | 🐛 127 | 🌐 C++ | 📅 2026-05-20 | A C++/Python viewer and user interface for 3D data such as meshes and point clouds
-* [MRPT Project](https://github.com/MRPT/mrpt) ⭐ 2,159 | 🐛 29 | 🌐 C++ | 📅 2026-08-31 | Mobile Robot Programming Toolkit provides C++ libraries aimed at researchers in mobile robotics and computer vision
-* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,120 | 🐛 2 | 📅 2021-01-30 | A C++ library for real-time metric-semantic SLAM
+* [hdl\_graph\_slam](https://github.com/koide3/hdl_graph_slam) ⭐ 2,333 | 🐛 126 | 🌐 C++ | 📅 2024-07-16 | An open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
+* [POLYSCOPE](https://github.com/nmwsharp/polyscope) ⭐ 2,201 | 🐛 127 | 🌐 C++ | 📅 2026-05-20 | A C++/Python viewer and user interface for 3D data such as meshes and point clouds
+* [MRPT Project](https://github.com/MRPT/mrpt) ⭐ 2,159 | 🐛 28 | 🌐 C++ | 📅 2026-08-31 | Mobile Robot Programming Toolkit provides C++ libraries aimed at researchers in mobile robotics and computer vision
+* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,121 | 🐛 2 | 📅 2021-01-30 | A C++ library for real-time metric-semantic SLAM
 * [MoveIt](https://github.com/ros-planning/moveit) ⭐ 2,082 | 🐛 621 | 🌐 C++ | 📅 2026-07-20 | An open-source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms
 * [MSCKF\_VIO](https://github.com/KumarRobotics/msckf_vio) ⭐ 1,969 | 🐛 12 | 🌐 C++ | 📅 2023-11-22 | Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 * [Robot-Centric Elevation Mapping](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,859 | 🐛 101 | 🌐 C++ | 📅 2024-11-04 | Robot-centric elevation mapping for rough terrain navigation
-* [Awesome YOLO Ojbect Detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection#slam-field-detection) ⭐ 1,785 | 🐛 1 | 📅 2025-05-31 | A collection of some awesome YOLO series projects
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,645 | 🐛 3 | 📅 2026-08-04 | A curated list of awesome robot descriptions
+* [Awesome YOLO Ojbect Detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection#slam-field-detection) ⭐ 1,784 | 🐛 1 | 📅 2025-05-31 | A collection of some awesome YOLO series projects
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,649 | 🐛 3 | 📅 2026-08-04 | A curated list of awesome robot descriptions
 * [ROS Best Practices](https://github.com/leggedrobotics/ros_best_practices/wiki) ⭐ 1,637 | 🐛 9 | 🌐 C++ | 📅 2022-01-22 | A loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS)
-* [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) ⭐ 1,632 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 | University of Zaragoza - Raúl Mur Artal
+* [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) ⭐ 1,633 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 | University of Zaragoza - Raúl Mur Artal
 * [SVO Pro](https://github.com/uzh-rpg/rpg_svo_pro_open) ⭐ 1,603 | 🐛 61 | 🌐 C++ | 📅 2024-01-19 | Semi-direct Visual Odometry (SVO)
 * [NICE-SLAM](https://github.com/cvg/nice-slam) ⭐ 1,596 | 🐛 9 | 🌐 Python | 📅 2023-03-10 | Neural Implicit Scalable Encoding for 3D SLAM
 * [GradSLAM](https://github.com/gradslam/gradslam) ⭐ 1,423 | 🐛 18 | 🌐 Python | 📅 2023-09-02 | A fully differentiable dense SLAM framework
 * [Dense Fusion](https://github.com/j96w/DenseFusion) ⭐ 1,276 | 🐛 70 | 🌐 Python | 📅 2023-01-02 | 6D Object Pose Estimation by Iterative Dense Fusion
-* [ROSboard](https://github.com/dheera/rosboard/) ⭐ 1,157 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-21 | ROS node that runs a web server on your robot
-* [Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) ⭐ 1,151 | 🐛 1 | 🌐 Python | 📅 2026-04-20 | ROS, OpenCV, Open-source, Pi Robot Dog
+* [ROSboard](https://github.com/dheera/rosboard/) ⭐ 1,156 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-21 | ROS node that runs a web server on your robot
+* [Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) ⭐ 1,153 | 🐛 1 | 🌐 Python | 📅 2026-04-20 | ROS, OpenCV, Open-source, Pi Robot Dog
 * [ROSshow](https://github.com/dheera/rosshow/) ⭐ 1,145 | 🐛 6 | 🌐 Python | 📅 2025-12-29 | Visualize ROS topics in a terminal
 * [Fast LOAM](https://github.com/wh200720041/floam) ⭐ 1,142 | 🐛 43 | 🌐 C++ | 📅 2024-07-30 | Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization
-* [Small GICP](https://github.com/koide3/small_gicp/tree/master) ⭐ 1,023 | 🐛 27 | 🌐 C++ | 📅 2026-08-31 | A header-only C++ library that offers efficient and parallelized algorithms for fine point cloud registration (ICP, Point-to-Plane ICP, GICP, VGICP, etc.)
+* [Small GICP](https://github.com/koide3/small_gicp/tree/master) ⭐ 1,024 | 🐛 27 | 🌐 C++ | 📅 2026-08-31 | A header-only C++ library that offers efficient and parallelized algorithms for fine point cloud registration (ICP, Point-to-Plane ICP, GICP, VGICP, etc.)
 * [FAR Planner](https://github.com/MichaelFYang/far_planner) ⭐ 1,012 | 🐛 16 | 🌐 C++ | 📅 2026-05-25 | Fast, Attemptable Route Planner for Navigation in Known and Unknown Environments
-* [ROS Noetic Tutorials](https://github.com/ros/ros_tutorials/tree/noetic-devel/roscpp_tutorials) ⭐ 940 | 🐛 6 | 🌐 C++ | 📅 2026-08-25 | ROS tutorials
+* [ROS Noetic Tutorials](https://github.com/ros/ros_tutorials/tree/noetic-devel/roscpp_tutorials) ⭐ 940 | 🐛 7 | 🌐 C++ | 📅 2026-09-01 | ROS tutorials
+* [BALM](https://github.com/hku-mars/BALM) ⭐ 935 | 🐛 28 | 🌐 C++ | 📅 2024-08-19 | Bundle Adjustment for Lidar Mapping
 * [ORB-SLAM2 Point Cloud](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map) ⭐ 934 | 🐛 37 | 🌐 C++ | 📅 2022-08-17 | A modified ORB\_SLAM2 with an online point cloud map module running in RGB-D mode
-* [BALM](https://github.com/hku-mars/BALM) ⭐ 934 | 🐛 28 | 🌐 C++ | 📅 2024-08-19 | Bundle Adjustment for Lidar Mapping
-* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 879 | 🐛 33 | 🌐 C++ | 📅 2026-08-30 | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning Library
+* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 880 | 🐛 34 | 🌐 C++ | 📅 2026-08-30 | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning Library
 * [Treexy](https://github.com/facontidavide/Treexy) ⭐ 866 | 🐛 8 | 🌐 C++ | 📅 2026-07-17 | Library that implements a compact hierarchical data structure that can store and manipulate volumetric data
-* [LIO SAM 6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) ⭐ 860 | 🐛 14 | 🌐 C++ | 📅 2025-12-15 | How to adapt LIO\_SAM to your own sensors
+* [LIO SAM 6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) ⭐ 861 | 🐛 14 | 🌐 C++ | 📅 2025-12-15 | How to adapt LIO\_SAM to your own sensors
 * [GBPlanner](https://github.com/unr-arl/gbplanner_ros) ⭐ 846 | 🐛 31 | 🌐 C++ | 📅 2026-08-31 | aGBPlanner is a new software package for Graph-based exploration path planning
 * [KR Autonomous Flight](https://github.com/KumarRobotics/kr_autonomous_flight) ⭐ 784 | 🐛 15 | 🌐 C++ | 📅 2026-04-18 | The autonomous flight code stack used at KumarRobotics, providing a complete solution for GPS-denied quadcopter autonomy
 * [LSD (LiDAR SLAM & Detection](https://github.com/w111liang222/lidar-slam-detection) ⭐ 767 | 🐛 62 | 🌐 C++ | 📅 2025-01-01 | SD is an open-source perception architecture for autonomous vehicle and robotics
@@ -283,7 +283,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [OpenDR Project](https://github.com/opendr-eu/opendr) ⭐ 729 | 🐛 2 | 🌐 Python | 📅 2026-05-11 | A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning
 * [SPENCER](https://github.com/spencer-project/spencer_people_tracking) ⭐ 714 | 🐛 34 | 🌐 C++ | 📅 2021-02-02 | Multi-modal ROS-based people detection and tracking framework for mobile robots
 * [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) ⭐ 686 | 🐛 2 | 🌐 Matlab | 📅 2018-11-10 | MATLAB sample codes for mobile robot navigation
-* [Dynablox](https://github.com/ethz-asl/dynablox) ⭐ 598 | 🐛 4 | 🌐 C++ | 📅 2025-03-09 | An online volumetric mapping-based approach for real-time detection of diverse dynamic objects in complex environments
+* [Dynablox](https://github.com/ethz-asl/dynablox) ⭐ 599 | 🐛 4 | 🌐 C++ | 📅 2025-03-09 | An online volumetric mapping-based approach for real-time detection of diverse dynamic objects in complex environments
 * [SOLD2](https://github.com/cvg/SOLD2) ⭐ 594 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2023-12-26 | Joint deep network for feature line detection and description
 * [Pedestrian Simulator](https://github.com/srl-freiburg/pedsim_ros) ⭐ 588 | 🐛 34 | 🌐 C++ | 📅 2023-08-07 | ROS packages for a 2D pedestrian simulator based on social force model of Helbing et. al. (PedSim\_ROS)
 * [3D Detection & Tracking Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer) ⭐ 533 | 🐛 5 | 🌐 Python | 📅 2023-12-28 | View 3D object detection and tracking results
@@ -291,7 +291,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) ⭐ 471 | 🐛 13 | 🌐 Python | 📅 2024-11-20 | A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time
 * [READ](https://github.com/JOP-Lee/READ) ⭐ 449 | 🐛 29 | 🌐 Python | 📅 2023-04-18 | Large-Scale Neural Scene Rendering for Autonomous Driving
 * [Rosbag Editor](https://github.com/facontidavide/rosbag_editor) ⭐ 448 | 🐛 12 | 🌐 C++ | 📅 2023-03-25 | Create a rosbag from a given one, using a simple GUI by @facontidavide
-* [UFOMap](https://github.com/UnknownFreeOccupied/ufomap) ⭐ 425 | 🐛 16 | 🌐 C++ | 📅 2025-06-27 | Efficient probabilistic 3D mapping framework with an explicit representation of unknown space
+* [UFOMap](https://github.com/UnknownFreeOccupied/ufomap) ⭐ 426 | 🐛 16 | 🌐 C++ | 📅 2025-06-27 | Efficient probabilistic 3D mapping framework with an explicit representation of unknown space
 * [Awesome point cloud place recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition) ⭐ 414 | 🐛 0 | 📅 2024-01-25 | List of papers about point cloud-based place recognition in SLAM
 * [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) ⭐ 406 | 🐛 10 | 🌐 Python | 📅 2024-01-26 | A physics-based simulation framework for physical human-robot interaction and robotic assistance
 * [PL-SLAM](https://github.com/yanyan-li/Structure-SLAM-PointLine) ⭐ 397 | 🐛 5 | 🌐 C++ | 📅 2021-07-27 | Real-time monocular 3D SLAM system
@@ -304,7 +304,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [GPS Waypoint-based Autonomous Navigation in ROS](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) ⭐ 332 | 🐛 4 | 🌐 C++ | 📅 2025-06-28 | GPS points will be predefined in ROS-based robots to navigate to the destination avoiding obstacles
 * [Bonnet](https://github.com/PRBonn/bonnet) ⭐ 328 | 🐛 19 | 🌐 Python | 📅 2022-11-21 | An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics
 * [Planar Recon](https://github.com/neu-vi/planarrecon) ⭐ 320 | 🐛 7 | 🌐 Python | 📅 2023-10-29 | Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos
-* [FusionCore](https://github.com/manankharwar/fusioncore) ⭐ 317 | 🐛 32 | 🌐 C++ | 📅 2026-08-21 | A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization
+* [FusionCore](https://github.com/manankharwar/fusioncore) ⭐ 317 | 🐛 32 | 🌐 C++ | 📅 2026-09-01 | A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization
 * [ORB-SLAM3-RGBL](https://github.com/TUMFTM/ORB_SLAM3_RGBL) ⭐ 314 | 🐛 1 | 🌐 C++ | 📅 2023-08-07 | RGB-LiDAR added to the ORB-SLAM3
 * [LidarView](https://github.com/Kitware/LidarView) ⭐ 303 | 🐛 6 | 🌐 C++ | 📅 2026-06-16 | Real-time reception, recording, visualization and processing of 3D LiDAR data
 * [Frontier Exploration](https://github.com/paulbovbel/frontier_exploration) ⭐ 294 | 🐛 29 | 🌐 C++ | 📅 2024-03-20 | ROS Node and Costmap 2D plugin layer for frontier exploration
@@ -314,15 +314,15 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Learning to drive smoothly](https://github.com/araffin/learning-to-drive-in-5-minutes) ⭐ 290 | 🐛 10 | 🌐 Python | 📅 2022-04-05 | Learning to drive smoothly in minutes, using a reinforcement learning algorithm -- Soft Actor-Critic (SAC) -- and a Variational AutoEncoder (VAE) in the Donkey Car simulator
 * [Fiducials](https://github.com/UbiquityRobotics/fiducials) ⭐ 284 | 🐛 38 | 🌐 C | 📅 2025-11-27 | Simultaneous localization and mapping using fiducial markers (SLAM)
 * [Acorn precision farming rover](https://github.com/Twisted-Fields/acorn-precision-farming-rover) ⭐ 278 | 🐛 10 | 🌐 Python | 📅 2024-07-06 | Acorn, the precision farming rover by Twisted Fields
-* [Vizanti - Web Visualizer & Mission Planner for ROS](https://github.com/MoffKalast/vizanti) ⭐ 266 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-29 | A mission planner and visualizer for controlling outdoor ROS robots
+* [Vizanti - Web Visualizer & Mission Planner for ROS](https://github.com/MoffKalast/vizanti) ⭐ 265 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-29 | A mission planner and visualizer for controlling outdoor ROS robots
 * [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) ⭐ 262 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-11 | Bag of Visual Words from Olga Vysotska
 * [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) ⭐ 262 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-11 | Explanation of concepts from Olga Vysotska
 * [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) ⭐ 248 | 🐛 10 | 🌐 Python | 📅 2023-03-24 | The code allows you to train end-to-end control policies to fly acrobatic maneuvers with drones
 * [All about ROS 2 and the new Gazebo](https://github.com/osrf/icra2023_ros2_gz_tutorial) ⭐ 244 | 🐛 5 | 🌐 Dockerfile | 📅 2024-10-09 | ICRA 2023 Tutorial on ROS 2 and the new Gazebo
 * [ROS2 Path Planning and Maze Solving](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving) ⭐ 241 | 🐛 6 | 🌐 Python | 📅 2024-03-22 | Maze Solving using Computer Vision In ROS2
 * [SkiROS](https://github.com/RVMI/skiros2) ⭐ 233 | 🐛 45 | 🌐 Python | 📅 2025-06-09 | A platform to create complex robot behaviors by composing skills - modular software blocks - into behavior trees
+* [Dear ROS Node Viewer](https://github.com/takeshi-iwanari/dear_ros_node_viewer) ⭐ 192 | 🐛 5 | 🌐 Python | 📅 2026-07-10 | Visualize ROS2 Node Graph
 * [MMS\_SLAM](https://github.com/wh200720041/MMS_SLAM) ⭐ 191 | 🐛 10 | 🌐 Python | 📅 2024-03-24 | Multi-modal semantic SLAM in dynamic environments
-* [Dear ROS Node Viewer](https://github.com/takeshi-iwanari/dear_ros_node_viewer) ⭐ 191 | 🐛 5 | 🌐 Python | 📅 2026-07-10 | Visualize ROS2 Node Graph
 * [EVO: Event-based Visual Odometry](https://github.com/uzh-rpg/rpg_dvs_evo_open) ⭐ 186 | 🐛 24 | 🌐 C++ | 📅 2023-08-31 | EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time
 * [Dubins Path Planning](https://github.com/jhan15/dubins_path_planning) ⭐ 182 | 🐛 1 | 🌐 Python | 📅 2022-07-15 | Path planning using Hybrid A\*/RRT + Dubins Path
 * [Summit](https://github.com/AdaCompNUS/summit) ⭐ 171 | 🐛 3 | 🌐 C++ | 📅 2026-04-21 | A Simulator for Urban Driving in Massive Mixed Traffic
@@ -584,4 +584,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

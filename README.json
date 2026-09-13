@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83479,
+            "stars": 83485,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -59,7 +59,7 @@
             "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83479,
+            "stars": 83485,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -99,7 +99,7 @@
             "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23553,
+            "stars": 23555,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -116,11 +116,11 @@
             "id": 30907774,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-09-12T05:51:10Z",
+            "last_commit": "2026-09-13T16:19:34Z",
             "open_issues": 220,
             "owner": "spmallick",
             "repo": "learnopencv",
-            "stars": 23143,
+            "stars": 23145,
             "topics": [
               "ai",
               "computer-vision",
@@ -155,7 +155,7 @@
             "open_issues": 4,
             "owner": "stas00",
             "repo": "ml-engineering",
-            "stars": 18979,
+            "stars": 18980,
             "topics": [
               "ai",
               "debugging",
@@ -193,7 +193,7 @@
             "open_issues": 5,
             "owner": "federico-busato",
             "repo": "Modern-CPP-Programming",
-            "stars": 16120,
+            "stars": 16118,
             "topics": [
               "c-plus-plus",
               "code-quality",
@@ -233,7 +233,7 @@
             "open_issues": 13,
             "owner": "girliemac",
             "repo": "a-picture-is-worth-a-1000-words",
-            "stars": 11412,
+            "stars": 11411,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -254,7 +254,7 @@
             "open_issues": 13,
             "owner": "girliemac",
             "repo": "a-picture-is-worth-a-1000-words",
-            "stars": 11412,
+            "stars": 11411,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -365,7 +365,7 @@
             "open_issues": 40,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7045,
+            "stars": 7046,
             "topics": [
               "robotics"
             ]
@@ -507,7 +507,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3891,
+            "stars": 3890,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -601,7 +601,7 @@
             "open_issues": 1,
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2974,
+            "stars": 2977,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -622,7 +622,7 @@
             "open_issues": 8,
             "owner": "changh95",
             "repo": "visual-slam-roadmap",
-            "stars": 1775,
+            "stars": 1774,
             "topics": [
               "awesome",
               "awesome-list",
@@ -762,7 +762,7 @@
             "open_issues": 7,
             "owner": "msadowski",
             "repo": "awesome-weekly-robotics",
-            "stars": 1067,
+            "stars": 1066,
             "topics": [
               "3d-printing",
               "automation",
@@ -987,7 +987,7 @@
             "open_issues": 54,
             "owner": "ros-industrial",
             "repo": "industrial_training",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "ros",
               "ros-industrial"
@@ -1150,7 +1150,7 @@
             "open_issues": 4,
             "owner": "noshluk2",
             "repo": "ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3",
-            "stars": 161,
+            "stars": 160,
             "topics": [
               "autonomous-driving",
               "autonomous-robots",
@@ -1455,7 +1455,7 @@
             "open_issues": 8,
             "owner": "Introduction-to-Autonomous-Robots",
             "repo": "Introduction-to-Autonomous-Robots",
-            "stars": 3514,
+            "stars": 3515,
             "topics": [
               "book",
               "boulder",
@@ -1481,7 +1481,7 @@
             "open_issues": 30,
             "owner": "gaoxiang12",
             "repo": "slambook-en",
-            "stars": 1911,
+            "stars": 1910,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -1523,7 +1523,7 @@
             "open_issues": 3,
             "owner": "petercorke",
             "repo": "RVC3-python",
-            "stars": 774,
+            "stars": 775,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -1571,7 +1571,7 @@
             "open_issues": 4,
             "owner": "nasa",
             "repo": "NASA-3D-Resources",
-            "stars": 3781,
+            "stars": 3783,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -1670,7 +1670,7 @@
             "open_issues": 29,
             "owner": "osrf",
             "repo": "gazebo_models",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "3d-models",
               "gazebo",
@@ -1702,7 +1702,7 @@
             "open_issues": 26,
             "owner": "apple-aiml-research",
             "repo": "ARKitScenes",
-            "stars": 955,
+            "stars": 956,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -1832,31 +1832,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome 3D LiDAR Datasets",
-          "description": "A collection for public 3D LiDAR datasets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This reposiotry is the collection for public 3D LiDAR datasets",
-            "homepage": null,
-            "id": 665385345,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-05-12T07:14:03Z",
-            "open_issues": 2,
-            "owner": "minwoo0611",
-            "repo": "Awesome-3D-LiDAR-Datasets",
-            "stars": 456,
-            "topics": [
-              "awesome-lists",
-              "datasets",
-              "lidar"
-            ]
-          },
-          "first_seen": "2026-08-28T22:22:50.899Z"
-        },
-        {
-          "node_type": "item",
           "title": "RELLIS-3D",
           "description": "A multimodal dataset collected in an off-road environment containing annotations for 13,556 LiDAR scans and 6,235 images",
           "children": [],
@@ -1871,7 +1846,7 @@
             "open_issues": 38,
             "owner": "unmannedlab",
             "repo": "RELLIS-3D",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "3d-segmentation",
               "dataset",
@@ -1900,7 +1875,7 @@
             "open_issues": 38,
             "owner": "unmannedlab",
             "repo": "RELLIS-3D",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "3d-segmentation",
               "dataset",
@@ -1909,6 +1884,31 @@
               "off-road",
               "ros-bag",
               "semantic-segmentation"
+            ]
+          },
+          "first_seen": "2026-08-28T22:22:50.899Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome 3D LiDAR Datasets",
+          "description": "A collection for public 3D LiDAR datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This reposiotry is the collection for public 3D LiDAR datasets",
+            "homepage": null,
+            "id": 665385345,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-05-12T07:14:03Z",
+            "open_issues": 2,
+            "owner": "minwoo0611",
+            "repo": "Awesome-3D-LiDAR-Datasets",
+            "stars": 456,
+            "topics": [
+              "awesome-lists",
+              "datasets",
+              "lidar"
             ]
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2213,7 +2213,7 @@
             "open_issues": 78,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 170095,
+            "stars": 170221,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2249,11 +2249,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T09:08:27Z",
-            "open_issues": 153,
+            "last_commit": "2026-09-13T16:19:48Z",
+            "open_issues": 138,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63638,
+            "stars": 63646,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -2278,7 +2278,7 @@
             "open_issues": 832,
             "owner": "ageitgey",
             "repo": "face_recognition",
-            "stars": 56735,
+            "stars": 56741,
             "topics": [
               "face-detection",
               "face-recognition",
@@ -2325,7 +2325,7 @@
             "open_issues": 55,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30490,
+            "stars": 30494,
             "topics": [
               "algorithm",
               "animation",
@@ -2363,7 +2363,7 @@
             "open_issues": 1047,
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26825,
+            "stars": 26824,
             "topics": [
               "apollo",
               "autonomous-driving",
@@ -2390,7 +2390,7 @@
             "open_issues": 780,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18473,
+            "stars": 18474,
             "topics": [
               "ai",
               "airsim",
@@ -2429,7 +2429,7 @@
             "open_issues": 6,
             "owner": "ryanburgess",
             "repo": "engineer-manager",
-            "stars": 10724,
+            "stars": 10725,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2446,11 +2446,11 @@
             "id": 167828165,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-02T17:33:21Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-13T16:09:51Z",
+            "open_issues": 95,
             "owner": "ArthurSonzogni",
             "repo": "FTXUI",
-            "stars": 10664,
+            "stars": 10670,
             "topics": [
               "arthursonzogni",
               "ascii",
@@ -2569,7 +2569,7 @@
             "open_issues": 163,
             "owner": "cvg",
             "repo": "Hierarchical-Localization",
-            "stars": 4204,
+            "stars": 4205,
             "topics": [
               "deep-learning",
               "feature-matching",
@@ -2598,7 +2598,7 @@
             "open_issues": 9,
             "owner": "borglab",
             "repo": "gtsam",
-            "stars": 3679,
+            "stars": 3680,
             "topics": [
               "estimation",
               "perception",
@@ -2620,8 +2620,8 @@
             "id": 33467565,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:20:20Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-12T19:16:28Z",
+            "open_issues": 45,
             "owner": "petercorke",
             "repo": "robotics-toolbox-python",
             "stars": 3483,
@@ -2658,7 +2658,7 @@
             "open_issues": 84,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "Fast-Planner",
-            "stars": 3397,
+            "stars": 3399,
             "topics": [
               "aerial-robotics",
               "autonomous-navigation",
@@ -2684,7 +2684,7 @@
             "open_issues": 39,
             "owner": "amov-lab",
             "repo": "Prometheus",
-            "stars": 3248,
+            "stars": 3249,
             "topics": [
               "control",
               "gazebo",
@@ -2711,7 +2711,7 @@
             "open_issues": 75,
             "owner": "rpng",
             "repo": "open_vins",
-            "stars": 3096,
+            "stars": 3098,
             "topics": [
               "ekf-localization",
               "msckf",
@@ -2897,7 +2897,7 @@
             "open_issues": 40,
             "owner": "ZJU-FAST-Lab",
             "repo": "ego-planner",
-            "stars": 2652,
+            "stars": 2653,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2918,7 +2918,7 @@
             "open_issues": 47,
             "owner": "SteveMacenski",
             "repo": "slam_toolbox",
-            "stars": 2628,
+            "stars": 2629,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2939,7 +2939,7 @@
             "open_issues": 111,
             "owner": "ARISE-Initiative",
             "repo": "robosuite",
-            "stars": 2609,
+            "stars": 2610,
             "topics": [
               "physics-simulation",
               "reinforcement-learning",
@@ -3129,7 +3129,7 @@
             "open_issues": 621,
             "owner": "moveit",
             "repo": "moveit",
-            "stars": 2083,
+            "stars": 2085,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -3175,7 +3175,7 @@
             "open_issues": 101,
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
-            "stars": 1867,
+            "stars": 1868,
             "topics": [
               "mapping",
               "robotics",
@@ -3277,7 +3277,7 @@
             "open_issues": 9,
             "owner": "leggedrobotics",
             "repo": "ros_best_practices",
-            "stars": 1635,
+            "stars": 1634,
             "topics": [
               "best-practices",
               "conventions",
@@ -3375,7 +3375,7 @@
             "open_issues": 18,
             "owner": "gradslam",
             "repo": "gradslam",
-            "stars": 1424,
+            "stars": 1425,
             "topics": [
               "3d-reconstruction",
               "deep-learning",
@@ -3402,7 +3402,7 @@
             "open_issues": 70,
             "owner": "j96w",
             "repo": "DenseFusion",
-            "stars": 1275,
+            "stars": 1276,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -3566,7 +3566,7 @@
             "open_issues": 6,
             "owner": "ros",
             "repo": "ros_tutorials",
-            "stars": 942,
+            "stars": 941,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -3705,7 +3705,7 @@
             "id": 275485565,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T00:40:03Z",
+            "last_commit": "2026-09-13T15:06:44Z",
             "open_issues": 31,
             "owner": "ntnu-arl",
             "repo": "gbplanner_ros",
@@ -4347,7 +4347,7 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T15:19:29Z",
+            "last_commit": "2026-09-13T02:27:32Z",
             "open_issues": 41,
             "owner": "manankharwar",
             "repo": "fusioncore",
@@ -4564,7 +4564,7 @@
             "open_issues": 0,
             "owner": "luigifreda",
             "repo": "3dmr",
-            "stars": 293,
+            "stars": 292,
             "topics": [
               "3d-path-planning",
               "3d-robotics",
@@ -5186,7 +5186,7 @@
             "open_issues": 2,
             "owner": "mich1342",
             "repo": "ros2_laser_scan_merger",
-            "stars": 109,
+            "stars": 108,
             "topics": [
               "cpp",
               "laserscan",
@@ -5247,7 +5247,7 @@
             "open_issues": 3,
             "owner": "GMahmoud",
             "repo": "virtual_costmap_layer",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -5793,7 +5793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:33:44.142Z",
+    "last_updated": "2026-09-13T16:19:55.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links of different content related to AI, Computer Vision, and Robotics.",

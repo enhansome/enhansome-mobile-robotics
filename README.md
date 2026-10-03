@@ -1,6 +1,6 @@
 # Awesome Mobile Robotics with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,632 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
 My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: <mathiasfassini@gmail.com>
 
@@ -21,21 +21,21 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ## Courses
 
-* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) ⭐ 83,595 | 🐛 4 | 📅 2026-09-27 | Developer-Y
-* [List of Computer Science courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,595 | 🐛 4 | 📅 2026-09-27 | List of Computer Science courses with video lectures
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) ⭐ 83,600 | 🐛 4 | 📅 2026-09-27 | Developer-Y
+* [List of Computer Science courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,600 | 🐛 4 | 📅 2026-09-27 | List of Computer Science courses with video lectures
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 99 | 📅 2024-05-17 | Jia-Bin Huang
 * [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) ⭐ 23,181 | 🐛 220 | 🌐 Jupyter Notebook | 📅 2026-09-20 | Satya Mallick
-* [Machine Learning Engineering](https://github.com/stas00/ml-engineering) ⭐ 19,082 | 🐛 0 | 🌐 Python | 📅 2026-10-02 | Machine Learning Engineering Open Book
-* [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) ⭐ 16,185 | 🐛 5 | 🌐 HTML | 📅 2026-04-19 | Modern C++ Programming Course (C++11/14/17/20)
+* [Machine Learning Engineering](https://github.com/stas00/ml-engineering) ⭐ 19,088 | 🐛 1 | 🌐 Python | 📅 2026-10-02 | Machine Learning Engineering Open Book
+* [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) ⭐ 16,188 | 🐛 5 | 🌐 HTML | 📅 2026-04-19 | Modern C++ Programming Course (C++11/14/17/20)
 * [Data Structure & Algorithms 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words) ⭐ 11,408 | 🐛 15 | 📅 2026-07-14 | Girliemac
 * [Algorithms / Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms) ⭐ 11,408 | 🐛 15 | 📅 2026-07-14 | A Picture is worth a 1000 words
 * [Roboflow Notebooks](https://github.com/roboflow/notebooks) ⭐ 9,697 | 🐛 89 | 🌐 Jupyter Notebook | 📅 2026-09-22 | Jupyter Notebooks with Computer Vision tutorials
-* [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,836 | 🐛 39 | 📅 2024-08-06 | CPP Best Practices
-* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,836 | 🐛 39 | 📅 2024-08-06 | Collaborative Collection of C++ Best Practices
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) ⭐ 7,212 | 🐛 43 | 📅 2024-09-22 | Huge awesome list for robotics by kiloreux
+* [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,837 | 🐛 39 | 📅 2024-08-06 | CPP Best Practices
+* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) ⭐ 8,837 | 🐛 39 | 📅 2024-08-06 | Collaborative Collection of C++ Best Practices
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) ⭐ 7,213 | 🐛 43 | 📅 2024-09-22 | Huge awesome list for robotics by kiloreux
 * [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes) ⭐ 6,680 | 🐛 5 | 📅 2024-05-16 | DAIR.AI
 * [Udacity's autonomous car](https://github.com/udacity/self-driving-car) ⚠️ Archived | The Udacity open source self-driving car project
-* [Start Machine Learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,303 | 🐛 6 | 📅 2026-01-23 | A complete guide to start and improve in ML, AI by Louis-François Bouchard
+* [Start Machine Learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,302 | 🐛 6 | 📅 2026-01-23 | A complete guide to start and improve in ML, AI by Louis-François Bouchard
 * [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list#mesh-storage-processing) ⭐ 4,427 | 🐛 6 | 📅 2021-10-12 | OpenMVG
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,896 | 🐛 13 | 📅 2023-11-20 | About Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 * [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) ⭐ 3,569 | 🐛 20 | 🌐 C++ | 📅 2023-12-15 | Modern C++ Cheatsheet
@@ -50,8 +50,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Introduction to Robotics and Perception](https://github.com/gtbook/robotics) ⭐ 776 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-09-10 | Introduction to Robotics and Perception by Frank Dellaert
 * [Sensor Fusion Tutorial](https://github.com/methylDragon/ros-sensor-fusion-tutorial/blob/master/01%20-%20ROS%20and%20Sensor%20Fusion%20Tutorial.md) ⭐ 717 | 🐛 4 | 📅 2019-03-15 | A tutorial for sensor fusion using the robot\_localization package
 * [Modern Robotics Course](https://github.com/madibabaiasl/modern-robotics-course/wiki) ⭐ 627 | 🐛 1 | 📅 2026-07-12 | The lessons for Modern Robotics Course
-* [Coding Notes and Tutorials](https://github.com/methylDragon/coding-notes) ⭐ 614 | 🐛 3 | 🌐 C++ | 📅 2023-11-23 | A compilation of tutorials and references for different coding languages and frameworks
-* [Coding Notes](https://github.com/methylDragon/coding-notes) ⭐ 614 | 🐛 3 | 🌐 C++ | 📅 2023-11-23 | Coding notes in many programming languages by methylDragon
+* [Coding Notes and Tutorials](https://github.com/methylDragon/coding-notes) ⭐ 615 | 🐛 3 | 🌐 C++ | 📅 2023-11-23 | A compilation of tutorials and references for different coding languages and frameworks
+* [Coding Notes](https://github.com/methylDragon/coding-notes) ⭐ 615 | 🐛 3 | 🌐 C++ | 📅 2023-11-23 | Coding notes in many programming languages by methylDragon
 * [Advanced C++](https://github.com/caveofprogramming/advanced-cplusplus) ⭐ 610 | 🐛 3 | 🌐 C++ | 📅 2026-07-16 | Code for Advanced C++ course
 * [ROS2 C++ learning](https://github.com/dottantgal/ROS2_learning) ⭐ 513 | 🐛 4 | 🌐 Python | 📅 2025-12-11 | Antonio Mauro Galiano
 * [ROS Industrial Training](https://github.com/ros-industrial/industrial_training) ⭐ 480 | 🐛 54 | 🌐 C++ | 📅 2026-07-24 | ROS Industrial
@@ -139,7 +139,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) ⭐ 3,518 | 🐛 9 | 🌐 TeX | 📅 2026-02-11 **| Nikolaus Correll, Magellan Scientific**
 * [SLAM Book](https://github.com/gaoxiang12/slambook-en) ⭐ 1,920 | 🐛 30 | 🌐 TeX | 📅 2025-07-07 **| Xiang Gao**
-* [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) ⭐ 836 | 🐛 6 | 🌐 C++ | 📅 2026-03-26 **| Francisco Martín Rico**
+* [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) ⭐ 837 | 🐛 6 | 🌐 C++ | 📅 2026-03-26 **| Francisco Martín Rico**
 * [Robotics, Vision & Control: 3rd edition in Python](https://github.com/petercorke/RVC3-python) ⭐ 783 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-09-27 **| Peter Corke, published by Springer-Nature 2023**
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
 * [Probabilistic Robotics](https://www.amazon.com.br/Probabilistic-Robotics-INTELLIGENT-ROBOTICS-AUTONOMOUS-ebook/dp/B00DJD9LXC/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91\&dchild=1\&keywords=probabilistic+robotics\&qid=1593131317\&sr=8-1) **| Sebastian Thrun, Wolfram Burgard, Dieter Fox**
@@ -221,14 +221,14 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ## Softwares and Libraries
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,847 | 🐛 84 | 🌐 HTML | 📅 2026-10-01 | ChatGPT prompt curation to use ChatGPT better
-* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,794 | 🐛 139 | 🌐 Python | 📅 2026-10-02 | Open source driver assistance system
-* [Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,791 | 🐛 832 | 🌐 Python | 📅 2026-06-25 | The world's simplest facial recognition API for Python and the command line
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,879 | 🐛 84 | 🌐 HTML | 📅 2026-10-01 | ChatGPT prompt curation to use ChatGPT better
+* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,796 | 🐛 138 | 🌐 Python | 📅 2026-10-03 | Open source driver assistance system
+* [Face Recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,793 | 🐛 832 | 🌐 Python | 📅 2026-06-25 | The world's simplest facial recognition API for Python and the command line
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 54,961 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18 | A new task, model, and dataset for image segmentation
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,619 | 🐛 58 | 🌐 Python | 📅 2026-10-02 | Python code collection of robotics algorithms, especially for autonomous navigation
-* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) ⭐ 26,850 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 | A high-performance, flexible architecture that accelerates the development, testing, and deployment of Autonomous Vehicles
-* [AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,530 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 | A simulator for drones (and soon other vehicles) built on Unreal Engine
-* [FTXUI](https://github.com/ArthurSonzogni/FTXUI) ⭐ 10,756 | 🐛 40 | 🌐 C++ | 📅 2026-10-01 | C++ Functional Terminal User Interface
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,621 | 🐛 59 | 🌐 Python | 📅 2026-10-03 | Python code collection of robotics algorithms, especially for autonomous navigation
+* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) ⭐ 26,849 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 | A high-performance, flexible architecture that accelerates the development, testing, and deployment of Autonomous Vehicles
+* [AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,531 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 | A simulator for drones (and soon other vehicles) built on Unreal Engine
+* [FTXUI](https://github.com/ArthurSonzogni/FTXUI) ⭐ 10,757 | 🐛 40 | 🌐 C++ | 📅 2026-10-01 | C++ Functional Terminal User Interface
 * [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) ⭐ 10,728 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-17 | A list of engineering leadership resource links
 * [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,245 | 🐛 806 | 🌐 C++ | 📅 2024-05-15 | University of Zaragoza - Raúl Mur Artal
 * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) ⭐ 4,937 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 | A real-time lidar-inertial odometry package
@@ -237,7 +237,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [GTSAM](https://github.com/borglab/gtsam) ⭐ 3,724 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-02 | A C++ library that implements smoothing and mapping (SAM) in robotics and vision
 * [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) ⭐ 3,509 | 🐛 31 | 🌐 C++ | 📅 2026-10-01 | Robotics Toolbox for Python
 * [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) ⭐ 3,417 | 🐛 84 | 🌐 C++ | 📅 2024-10-24 | It aims to enable quadrotor fast flight in complex unknown environments
-* [Prometheus](https://github.com/amov-lab/Prometheus/blob/master/README_EN.md) ⭐ 3,269 | 🐛 39 | 🌐 C++ | 📅 2026-04-03 | An open source autonomous drone software platform
+* [Prometheus](https://github.com/amov-lab/Prometheus/blob/master/README_EN.md) ⭐ 3,270 | 🐛 39 | 🌐 C++ | 📅 2026-04-03 | An open source autonomous drone software platform
 * [OpenVINS](https://github.com/rpng/open_vins) ⭐ 3,127 | 🐛 77 | 🌐 C++ | 📅 2025-11-30 | Computer vision code along with a state-of-the art filter-based visual-inertial estimator
 * [Lane Detection](https://github.com/amusi/awesome-lane-detection) ⭐ 3,067 | 🐛 18 | 📅 2024-08-16 | Papers, tutorials, and code about Lane Detection
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,067 | 🐛 28 | 🌐 Python | 📅 2026-09-18 | A curated list of robotics simulators and libraries
@@ -251,8 +251,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Webviz](https://github.com/cruise-automation/webviz) ⭐ 2,343 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 | Web-based application for playback and visualization of ROS bag files
 * [hdl\_graph\_slam](https://github.com/koide3/hdl_graph_slam) ⭐ 2,338 | 🐛 126 | 🌐 C++ | 📅 2024-07-16 | An open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
 * [POLYSCOPE](https://github.com/nmwsharp/polyscope) ⭐ 2,214 | 🐛 127 | 🌐 C++ | 📅 2026-09-06 | A C++/Python viewer and user interface for 3D data such as meshes and point clouds
-* [MRPT Project](https://github.com/MRPT/mrpt) ⭐ 2,166 | 🐛 27 | 🌐 C++ | 📅 2026-10-02 | Mobile Robot Programming Toolkit provides C++ libraries aimed at researchers in mobile robotics and computer vision
-* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,132 | 🐛 2 | 📅 2021-01-30 | A C++ library for real-time metric-semantic SLAM
+* [MRPT Project](https://github.com/MRPT/mrpt) ⭐ 2,166 | 🐛 23 | 🌐 C++ | 📅 2026-10-02 | Mobile Robot Programming Toolkit provides C++ libraries aimed at researchers in mobile robotics and computer vision
+* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,133 | 🐛 2 | 📅 2021-01-30 | A C++ library for real-time metric-semantic SLAM
 * [MoveIt](https://github.com/ros-planning/moveit) ⭐ 2,096 | 🐛 622 | 🌐 C++ | 📅 2026-07-20 | An open-source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms
 * [MSCKF\_VIO](https://github.com/KumarRobotics/msckf_vio) ⭐ 1,975 | 🐛 12 | 🌐 C++ | 📅 2023-11-22 | Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 * [Robot-Centric Elevation Mapping](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,877 | 🐛 101 | 🌐 C++ | 📅 2024-11-04 | Robot-centric elevation mapping for rough terrain navigation
@@ -265,7 +265,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [GradSLAM](https://github.com/gradslam/gradslam) ⭐ 1,427 | 🐛 18 | 🌐 Python | 📅 2023-09-02 | A fully differentiable dense SLAM framework
 * [Dense Fusion](https://github.com/j96w/DenseFusion) ⭐ 1,277 | 🐛 70 | 🌐 Python | 📅 2023-01-02 | 6D Object Pose Estimation by Iterative Dense Fusion
 * [ROSboard](https://github.com/dheera/rosboard/) ⭐ 1,164 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-21 | ROS node that runs a web server on your robot
-* [Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) ⭐ 1,162 | 🐛 1 | 🌐 Python | 📅 2026-04-20 | ROS, OpenCV, Open-source, Pi Robot Dog
+* [Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) ⭐ 1,163 | 🐛 1 | 🌐 Python | 📅 2026-04-20 | ROS, OpenCV, Open-source, Pi Robot Dog
 * [ROSshow](https://github.com/dheera/rosshow/) ⭐ 1,148 | 🐛 7 | 🌐 Python | 📅 2025-12-29 | Visualize ROS topics in a terminal
 * [Fast LOAM](https://github.com/wh200720041/floam) ⭐ 1,145 | 🐛 43 | 🌐 C++ | 📅 2024-07-30 | Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization
 * [Small GICP](https://github.com/koide3/small_gicp/tree/master) ⭐ 1,047 | 🐛 26 | 🌐 C++ | 📅 2026-09-29 | A header-only C++ library that offers efficient and parallelized algorithms for fine point cloud registration (ICP, Point-to-Plane ICP, GICP, VGICP, etc.)
@@ -297,7 +297,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [PL-SLAM](https://github.com/yanyan-li/Structure-SLAM-PointLine) ⭐ 397 | 🐛 5 | 🌐 C++ | 📅 2021-07-27 | Real-time monocular 3D SLAM system
 * [LOCUS](https://github.com/NeBula-Autonomy/LOCUS) ⭐ 391 | 🐛 14 | 🌐 C++ | 📅 2023-04-29 | A Multi-Sensor Lidar-Centric Solution for High-Precision Odometry and 3D Mapping in Real-Time
 * [Robo3D](https://github.com/ldkong1205/Robo3D) ⭐ 379 | 🐛 10 | 🌐 Python | 📅 2025-12-06 | Towards Robust and Reliable 3D Perception against Corruptions
-* [FusionCore](https://github.com/manankharwar/fusioncore) ⭐ 368 | 🐛 44 | 🌐 C++ | 📅 2026-09-29 | A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization
+* [FusionCore](https://github.com/manankharwar/fusioncore) ⭐ 368 | 🐛 57 | 🌐 C++ | 📅 2026-09-29 | A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization
 * [SSL\_SLAM2](https://github.com/wh200720041/ssl_slam2) ⭐ 366 | 🐛 19 | 🌐 C++ | 📅 2024-03-24 | Lightweight 3-D Localization and Mapping for Solid-State LiDAR
 * [MBPlanner](https://github.com/unr-arl/mbplanner_ros) ⭐ 360 | 🐛 5 | 🌐 C++ | 📅 2023-04-19 | A ROS software package for Motion Primitives-based Exploration Path Planning
 * [Urban Road Filter](https://github.com/jkk-research/urban_road_filter) ⭐ 358 | 🐛 4 | 🌐 C++ | 📅 2026-07-06 | A real-time LIDAR-based urban road and sidewalk detection algorithm for autonomous vehicles
@@ -511,7 +511,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [AutoStore](https://www.autostoresystem.com/) | Warehouse Robots at Your Service
 * [TORC](https://torc.ai/) | An autonomous vehicle leader since 2007, Torc is commercializing self-driving trucks for safe, sustained, long-haul innovation in the freight industry
 * [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital worlds, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins
-* [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) ⭐ 1,884 | 🐛 3 | 🌐 Shell | 📅 2026-09-02 | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
+* [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) ⭐ 1,885 | 🐛 3 | 🌐 Shell | 📅 2026-09-02 | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
 * [Sereact GmbH](https://sereact.ai/) | AI powered robotics for warehouse automation
 
 ## Laboratories and Research Groups
@@ -584,4 +584,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

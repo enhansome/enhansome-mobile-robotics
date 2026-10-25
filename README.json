@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-24T06:05:53Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83757,
+            "stars": 83765,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -56,10 +56,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-24T06:05:53Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83757,
+            "stars": 83765,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -120,7 +120,7 @@
             "open_issues": 221,
             "owner": "spmallick",
             "repo": "learnopencv",
-            "stars": 23214,
+            "stars": 23220,
             "topics": [
               "ai",
               "computer-vision",
@@ -155,7 +155,7 @@
             "open_issues": 1,
             "owner": "stas00",
             "repo": "ml-engineering",
-            "stars": 19583,
+            "stars": 19588,
             "topics": [
               "ai",
               "debugging",
@@ -193,7 +193,7 @@
             "open_issues": 6,
             "owner": "federico-busato",
             "repo": "Modern-CPP-Programming",
-            "stars": 16247,
+            "stars": 16249,
             "topics": [
               "c-plus-plus",
               "code-quality",
@@ -275,7 +275,7 @@
             "open_issues": 91,
             "owner": "roboflow",
             "repo": "notebooks",
-            "stars": 9722,
+            "stars": 9725,
             "topics": [
               "automatic-labeling-system",
               "computer-vision",
@@ -415,7 +415,7 @@
             "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6316,
+            "stars": 6317,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -436,7 +436,7 @@
             "open_issues": 6,
             "owner": "louisfb01",
             "repo": "start-machine-learning",
-            "stars": 5308,
+            "stars": 5310,
             "topics": [
               "artificial-intelligence",
               "cheat-sheets",
@@ -507,7 +507,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3909,
+            "stars": 3910,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -546,7 +546,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2023-12-15T08:48:20Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "mortennobel",
             "repo": "cpp-cheatsheet",
             "stars": 3566,
@@ -618,11 +618,11 @@
             "id": 509475567,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:37:05Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-25T13:31:31Z",
+            "open_issues": 75,
             "owner": "ShisatoYano",
             "repo": "AutonomousVehicleControlBeginnersGuide",
-            "stars": 1911,
+            "stars": 1915,
             "topics": [
               "algorithm",
               "autonomous-driving",
@@ -658,7 +658,7 @@
             "open_issues": 8,
             "owner": "changh95",
             "repo": "visual-slam-roadmap",
-            "stars": 1813,
+            "stars": 1815,
             "topics": [
               "awesome",
               "awesome-list",
@@ -873,7 +873,7 @@
             "open_issues": 3,
             "owner": "methylDragon",
             "repo": "coding-notes",
-            "stars": 617,
+            "stars": 618,
             "topics": [
               "cpp",
               "dds",
@@ -907,7 +907,7 @@
             "open_issues": 3,
             "owner": "methylDragon",
             "repo": "coding-notes",
-            "stars": 617,
+            "stars": 618,
             "topics": [
               "cpp",
               "dds",
@@ -1455,7 +1455,7 @@
             "open_issues": 9,
             "owner": "Introduction-to-Autonomous-Robots",
             "repo": "Introduction-to-Autonomous-Robots",
-            "stars": 3526,
+            "stars": 3525,
             "topics": [
               "book",
               "boulder",
@@ -1481,7 +1481,7 @@
             "open_issues": 30,
             "owner": "gaoxiang12",
             "repo": "slambook-en",
-            "stars": 1930,
+            "stars": 1931,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -1550,7 +1550,7 @@
             "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6316,
+            "stars": 6317,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -1571,7 +1571,7 @@
             "open_issues": 4,
             "owner": "nasa",
             "repo": "NASA-3D-Resources",
-            "stars": 3831,
+            "stars": 3833,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2056,11 +2056,11 @@
             "id": 517667802,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-24T14:50:34Z",
+            "last_commit": "2026-10-24T16:16:17Z",
             "open_issues": 5,
             "owner": "sjtuyinjie",
             "repo": "Ground-Challenge",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2209,11 +2209,11 @@
             "id": 574523116,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T13:45:55Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-25T10:24:08Z",
+            "open_issues": 74,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 174357,
+            "stars": 174508,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2249,11 +2249,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T09:04:01Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-25T16:03:44Z",
+            "open_issues": 130,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63987,
+            "stars": 63990,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -2278,7 +2278,7 @@
             "open_issues": 833,
             "owner": "ageitgey",
             "repo": "face_recognition",
-            "stars": 56854,
+            "stars": 56855,
             "topics": [
               "face-detection",
               "face-recognition",
@@ -2304,7 +2304,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55055,
+            "stars": 55062,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2321,11 +2321,11 @@
             "id": 54376220,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T14:30:14Z",
+            "last_commit": "2026-10-24T16:19:30Z",
             "open_issues": 64,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30785,
+            "stars": 30801,
             "topics": [
               "algorithm",
               "animation",
@@ -2363,7 +2363,7 @@
             "open_issues": 1050,
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26875,
+            "stars": 26876,
             "topics": [
               "apollo",
               "autonomous-driving",
@@ -2429,7 +2429,7 @@
             "open_issues": 34,
             "owner": "ArthurSonzogni",
             "repo": "FTXUI",
-            "stars": 10836,
+            "stars": 10838,
             "topics": [
               "arthursonzogni",
               "ascii",
@@ -2463,7 +2463,7 @@
             "open_issues": 8,
             "owner": "ryanburgess",
             "repo": "engineer-manager",
-            "stars": 10733,
+            "stars": 10734,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2484,7 +2484,7 @@
             "open_issues": 806,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10266,
+            "stars": 10267,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2594,11 +2594,11 @@
             "id": 86362856,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T04:31:57Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-25T13:05:37Z",
+            "open_issues": 14,
             "owner": "borglab",
             "repo": "gtsam",
-            "stars": 3765,
+            "stars": 3766,
             "topics": [
               "estimation",
               "perception",
@@ -2620,11 +2620,11 @@
             "id": 33467565,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-24T01:25:48Z",
+            "last_commit": "2026-10-25T07:02:02Z",
             "open_issues": 56,
             "owner": "petercorke",
             "repo": "robotics-toolbox-python",
-            "stars": 3552,
+            "stars": 3553,
             "topics": [
               "dynamics",
               "hessian",
@@ -2658,7 +2658,7 @@
             "open_issues": 84,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "Fast-Planner",
-            "stars": 3427,
+            "stars": 3428,
             "topics": [
               "aerial-robotics",
               "autonomous-navigation",
@@ -2684,7 +2684,7 @@
             "open_issues": 39,
             "owner": "amov-lab",
             "repo": "Prometheus",
-            "stars": 3280,
+            "stars": 3282,
             "topics": [
               "control",
               "gazebo",
@@ -2825,7 +2825,7 @@
             "open_issues": 4,
             "owner": "zhm-real",
             "repo": "MotionPlanning",
-            "stars": 2759,
+            "stars": 2761,
             "topics": [
               "autonomous-vehicles",
               "frenet-frames",
@@ -2918,7 +2918,7 @@
             "open_issues": 46,
             "owner": "SteveMacenski",
             "repo": "slam_toolbox",
-            "stars": 2690,
+            "stars": 2692,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -2939,7 +2939,7 @@
             "open_issues": 124,
             "owner": "ARISE-Initiative",
             "repo": "robosuite",
-            "stars": 2679,
+            "stars": 2681,
             "topics": [
               "physics-simulation",
               "reinforcement-learning",
@@ -3062,11 +3062,11 @@
             "id": 13708826,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T15:52:42Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-25T11:17:49Z",
+            "open_issues": 19,
             "owner": "MRPT",
             "repo": "mrpt",
-            "stars": 2170,
+            "stars": 2171,
             "topics": [
               "autonomous-driving",
               "c-plus-plus",
@@ -3150,7 +3150,7 @@
             "open_issues": 12,
             "owner": "KumarRobotics",
             "repo": "msckf_vio",
-            "stars": 1980,
+            "stars": 1982,
             "topics": [
               "ros",
               "stereo-vision",
@@ -3277,7 +3277,7 @@
             "open_issues": 121,
             "owner": "raulmur",
             "repo": "ORB_SLAM",
-            "stars": 1636,
+            "stars": 1637,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -3321,7 +3321,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2024-01-19T05:56:46Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "uzh-rpg",
             "repo": "rpg_svo_pro_open",
             "stars": 1617,
@@ -3423,7 +3423,7 @@
             "open_issues": 0,
             "owner": "mangdangroboticsclub",
             "repo": "mini_pupper",
-            "stars": 1175,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -3629,7 +3629,7 @@
             "open_issues": 32,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 915,
+            "stars": 916,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -3730,7 +3730,7 @@
             "open_issues": 15,
             "owner": "KumarRobotics",
             "repo": "kr_autonomous_flight",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "autonomous-flight",
               "autonomous-navigation",
@@ -3887,7 +3887,7 @@
             "open_issues": 4,
             "owner": "ethz-asl",
             "repo": "dynablox",
-            "stars": 608,
+            "stars": 609,
             "topics": [
               "detection",
               "diverse",
@@ -4125,6 +4125,33 @@
         },
         {
           "node_type": "item",
+          "title": "Assistive Gym",
+          "description": "A physics-based simulation framework for physical human-robot interaction and robotic assistance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Assistive Gym, a physics-based simulation framework for physical human-robot interaction and robotic assistance.",
+            "homepage": null,
+            "id": 210993757,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-01-26T08:40:16Z",
+            "open_issues": 10,
+            "owner": "Healthcare-Robotics",
+            "repo": "assistive-gym",
+            "stars": 413,
+            "topics": [
+              "assistive-robotics",
+              "human-robot-interaction",
+              "physics-simulation",
+              "robotics",
+              "simulation"
+            ]
+          },
+          "first_seen": "2026-08-28T22:22:50.899Z"
+        },
+        {
+          "node_type": "item",
           "title": "Awesome point cloud place recognition",
           "description": "List of papers about point cloud-based place recognition in SLAM",
           "children": [],
@@ -4147,33 +4174,6 @@
               "place-recognition",
               "point-cloud",
               "slam"
-            ]
-          },
-          "first_seen": "2026-08-28T22:22:50.899Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Assistive Gym",
-          "description": "A physics-based simulation framework for physical human-robot interaction and robotic assistance",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Assistive Gym, a physics-based simulation framework for physical human-robot interaction and robotic assistance.",
-            "homepage": null,
-            "id": 210993757,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-01-26T08:40:16Z",
-            "open_issues": 10,
-            "owner": "Healthcare-Robotics",
-            "repo": "assistive-gym",
-            "stars": 412,
-            "topics": [
-              "assistive-robotics",
-              "human-robot-interaction",
-              "physics-simulation",
-              "robotics",
-              "simulation"
             ]
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -4239,7 +4239,7 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T03:11:59Z",
+            "last_commit": "2026-10-25T15:43:52Z",
             "open_issues": 48,
             "owner": "manankharwar",
             "repo": "fusioncore",
@@ -5268,7 +5268,7 @@
             "open_issues": 17,
             "owner": "IntelligentRoboticsLabs",
             "repo": "gb_visual_detection_3d",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -5704,7 +5704,7 @@
             "open_issues": 7,
             "owner": "schnorr",
             "repo": "infufrgs",
-            "stars": 201,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T22:22:50.899Z"
@@ -5793,7 +5793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T15:59:19.187Z",
+    "last_updated": "2026-10-25T16:25:55.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful links of different content related to AI, Computer Vision, and Robotics.",
